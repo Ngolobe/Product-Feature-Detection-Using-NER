@@ -1,0 +1,7067 @@
+[
+  {
+    "content": "Lacoste Silm\u00e4lasit L2840 220",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Beyond Perf. Foundation + Concealer, 09 Neutral",
+    "entities": [
+      [ 13, 35, "PRODUCT" ],
+      [ 40, 47, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Silk Screen Refining Powder Makeup, 24 Meikkivoide Meikki Origins",
+    "entities": [
+      [ 21, 34, "PRODUCT" ],
+      [ 39, 50, "PRODUCT" ],
+      [ 58, 65, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Calvin Klein Earth Miesten kello K5Y31XWL Vihre\u00e4/Nahka \u00d844 mm",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 19, 26, "GENDER" ],
+      [ 27, 32, "PRODUCT" ],
+      [ 42, 48, "COLOR" ],
+      [ 49, 54, "MATERIAL" ],
+      [ 56, 61, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Just Cavalli Silm\u00e4lasit JC 0817 086",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 13, 23, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Alliance Forestry 333 ( 320/85 -24 127A8 14PR TL kaksoistunnus\u00a0 124B )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 24, 48, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "ITP Bajacross ( 26x10.00 R14 TL 81D )",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 16, 35, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Polaroid Aurinkolasit PLD 7017/S Polarized 807/5Z",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Dobsom Lanna Jacket",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 13, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Vogue Eyewear Silm\u00e4lasit VO2714 IN VOGUE 2693",
+    "entities": [
+      [ 0, 13, "BRAND" ],
+      [ 14, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Arnette Aurinkolasit AN4265 POST MALONE X ARNETTE 259080",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Breguet Classique Miesten kello 5717BR-EU-9ZU Hopea/Nahka \u00d844 mm",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 18, 25, "GENDER" ],
+      [ 26, 31, "PRODUCT" ],
+      [ 46, 51, "COLOR" ],
+      [ 52, 57, "MATERIAL" ],
+      [ 59, 64, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Yokohama W.drive (V905) ( 285/35 R21 105V XL, RPB )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 26, 49, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Beyond Perf. Foundation + Concealer, 11 Honey",
+    "entities": [
+      [ 13, 35, "PRODUCT" ],
+      [ 40, 45, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Q10 120 mg 60 kapselia",
+    "entities": [
+      [ 0, 3, "PRODUCT" ],
+      [ 4, 10, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Lastenkeng\u00e4t adidas\u00a0 EQT SUPPORT ADV J",
+    "entities": [
+      [ 0, 12, "PRODUCT" ],
+      [ 13, 19, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Calvin Klein Silm\u00e4lasit CK7932 240",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 13, 23, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Beyond Perf. Foundation + Concealer, 18 Sand",
+    "entities": [
+      [ 13, 35, "PRODUCT" ],
+      [ 40, 44, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Lastenkeng\u00e4t adidas\u00a0 U_PATH RUN J",
+    "entities": [
+      [ 0, 12, "PRODUCT" ],
+      [ 13, 19, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Pitk\u00e4hihainen paitapusero Eleven Paris\u00a0 VRAPP MEN",
+    "entities": [
+      [ 14, 25, "PRODUCT" ],
+      [ 26, 38, "BRAND" ],
+      [ 46, 49, "GENDER" ]
+    ]
+  },
+  {
+    "content": "Tory Burch Silm\u00e4lasit TY2063 1726",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 11, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Versace Aurinkolasit VE4359 GB1/1A",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "B&P Valle Steel HV 32g 12/70 Haulikon Patruuna",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 4, 15, "PRODUCT" ],
+      [ 19, 22, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Beyond Perf. Foundation + Concealer, 23 Ginger",
+    "entities": [
+      [ 13, 35, "PRODUCT" ],
+      [ 40, 46, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Etnia Barcelona Silm\u00e4lasit Greenwich BKBZ",
+    "entities": [
+      [ 0, 15, "BRAND" ],
+      [ 16, 26, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Didak Ananas Uimapatja",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 13, 22, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Farkut Leon",
+    "entities": [ [ 0, 6, "PRODUCT" ] ]
+  },
+  {
+    "content": "MOMO Shampoo, 1000ml",
+    "entities": [
+      [ 5, 12, "PRODUCT" ],
+      [ 14, 20, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Westward Leaning Aurinkolasit Voyager 30",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 17, 29, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "MODO Silm\u00e4lasit 4528 Nude Crystal",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 5, 15, "PRODUCT" ],
+      [ 21, 33, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Roberto Cavalli Silm\u00e4lasit RC 756 REETHI 001",
+    "entities": [
+      [ 0, 15, "BRAND" ],
+      [ 16, 26, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Flora Shoes Summer Shoes Sandals Hopea ECCO",
+    "entities": [
+      [ 6, 11, "PRODUCT" ],
+      [ 12, 24, "PRODUCT" ],
+      [ 25, 32, "PRODUCT" ],
+      [ 33, 38, "COLOR" ],
+      [ 39, 43, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Beyond Perf. Foundation + Concealer, 48 Oat",
+    "entities": [
+      [ 13, 35, "PRODUCT" ],
+      [ 40, 43, "COLOR" ]
+    ]
+  },
+  {
+    "content": "adidas S\u00e4\u00e4risuojat Predator League Inflight - Valkoinen/Hopea/Musta",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 18, "PRODUCT" ],
+      [ 46, 55, "COLOR" ],
+      [ 56, 61, "COLOR" ],
+      [ 62, 67, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Michelin Alpin 6 ( 195/60 R16 89T )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 19, 33, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Chinot River",
+    "entities": [ [ 7, 12, "BRAND" ] ]
+  },
+  {
+    "content": "Zac Posen Aurinkolasit ALEK Tortoise",
+    "entities": [
+      [ 0, 9, "BRAND" ],
+      [ 10, 22, "PRODUCT" ],
+      [ 28, 36, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Classic Tie Solmio Kravatti Moniv\u00e4rinen/Kuvioitu Amanda Christensen",
+    "entities": [
+      [ 8, 11, "PRODUCT" ],
+      [ 12, 18, "PRODUCT" ],
+      [ 19, 27, "PRODUCT" ],
+      [ 28, 39, "COLOR" ],
+      [ 40, 48, "COLOR" ],
+      [ 49, 67, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Calvin Klein Aurinkolasit CK4354S 239",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 13, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Westward Leaning Aurinkolasit Concorde 22",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 17, 29, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Retrosuperfuture Aurinkolasit Tuttolente Drew Mama Black IUKA HFW",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 17, 29, "PRODUCT" ],
+      [ 51, 56, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Cultor RD-01 ( 460/85 R34 147A8 TL kaksoistunnus\u00a0 144B )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 15, 34, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Rival Fleece Jogger Collegehousut Olohousut Sininen Under Armour",
+    "entities": [
+      [ 6, 12, "MATERIAL" ],
+      [ 20, 33, "PRODUCT" ],
+      [ 34, 43, "PRODUCT" ],
+      [ 44, 51, "COLOR" ],
+      [ 52, 64, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Viiru & Pesonen lasten huopa Tervehdys",
+    "entities": [ [ 23, 28, "PRODUCT" ] ]
+  },
+  {
+    "content": "Ceat Farmax RC ( 380/90 R46 165A8 TL kaksoistunnus\u00a0 165B )",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 17, 36, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Miki Swim Pants Swimwear Nappie Briefs Sininen Soft Gallery",
+    "entities": [
+      [ 5, 15, "PRODUCT" ],
+      [ 16, 24, "PRODUCT" ],
+      [ 39, 46, "COLOR" ],
+      [ 47, 59, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Hunter\u00a0 MENS ORIGINAL TALL",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 13, "BRAND" ],
+      [ 15, 19, "GENDER" ]
+    ]
+  },
+  {
+    "content": "Croon Silm\u00e4lasit Leesbril Classic Pink Black Duo",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 16, "PRODUCT" ],
+      [ 34, 38, "COLOR" ],
+      [ 39, 44, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Gucci GG0025O-002",
+    "entities": [ [ 0, 5, "BRAND" ] ]
+  },
+  {
+    "content": "BKT AW 705 ( 400/55 -22.5 154A8 18PR TL kaksoistunnus\u00a0 150B )",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 13, 39, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Tom Ford Georgia FT0498 69T",
+    "entities": [ [ 0, 8, "BRAND" ] ]
+  },
+  {
+    "content": "Tom Ford Georgia FT0498 69T",
+    "entities": [ [ 0, 8, "BRAND" ] ]
+  },
+  {
+    "content": "Viking ProTech NewGen ( 235/60 R18 107W XL )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 21, "PRODUCT" ],
+      [ 24, 42, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Seventh Street Silm\u00e4lasit 7A032 2F7",
+    "entities": [
+      [ 0, 14, "BRAND" ],
+      [ 15, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Matkakassi Roxy FEEL HAPPY",
+    "entities": [
+      [ 0, 10, "PRODUCT" ],
+      [ 11, 15, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Vy\u00f6 Albert",
+    "entities": [ [ 0, 3, "PRODUCT" ] ]
+  },
+  {
+    "content": "Healing Volume Thickening Conditioner, 1000ml",
+    "entities": [
+      [ 26, 37, "PRODUCT" ],
+      [ 39, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Maxxis Vansmart Snow WL2 ( 215/65 R15C 104/102T )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 27, 47, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Healing Volume Thickening Conditioner, 250ml",
+    "entities": [
+      [ 26, 37, "PRODUCT" ],
+      [ 39, 44, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Love Moschino MOL524 807",
+    "entities": [ [ 5, 13, "BRAND" ] ]
+  },
+  {
+    "content": "Sunday Somewhere Aurinkolasit JESSE BRG",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 17, 29, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Healing Style Beach Spray 100ml",
+    "entities": [
+      [ 14, 25, "PRODUCT" ],
+      [ 26, 31, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Healing Strength Neem Plant Silk Serum 100ml",
+    "entities": [
+      [ 28, 38, "PRODUCT" ],
+      [ 39, 44, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Matador MP47 Hectorra 3 ( 175/70 R13 82T )",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 26, 40, "SIZE/WEIGHT" ],
+      [ 13, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Padded Select Reppu Laukku Musta Eastpak",
+    "entities": [
+      [ 14, 19, "PRODUCT" ],
+      [ 20, 26, "PRODUCT" ],
+      [ 27, 32, "COLOR" ],
+      [ 33, 40, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Sc-Pamela Hihaton Pusero Paita Vaaleanpunainen Soyaconcept",
+    "entities": [
+      [ 10, 17, "PRODUCT" ],
+      [ 18, 24, "PRODUCT" ],
+      [ 25, 30, "PRODUCT" ],
+      [ 31, 46, "COLOR" ],
+      [ 47, 58, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Vy\u00f6 Ashton",
+    "entities": [ [ 0, 3, "PRODUCT" ] ]
+  },
+  {
+    "content": "Pelican Hat Accessories Headwear Hats Musta SWAYS",
+    "entities": [
+      [ 8, 11, "PRODUCT" ],
+      [ 33, 37, "PRODUCT" ],
+      [ 38, 43, "COLOR" ],
+      [ 44, 49, "BRAND" ],
+      [ 24, 32, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Vy\u00f6 Arthur",
+    "entities": [ [ 0, 3, "PRODUCT" ] ]
+  },
+  {
+    "content": "Absolu Rouge 106 Look Huulipuna Meikki Beige Lanc\u00f4me",
+    "entities": [
+      [ 22, 31, "PRODUCT" ],
+      [ 39, 44, "COLOR" ],
+      [ 45, 52, "BRAND" ]
+    ]
+  },
+  {
+    "content": "D1. The Gant Spring Varsity Bag Bags Weekend & Gym Bags Sininen GANT",
+    "entities": [
+      [ 28, 31, "PRODUCT" ],
+      [ 32, 36, "PRODUCT" ],
+      [ 56, 63, "COLOR" ],
+      [ 64, 68, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Michelin Pilot Sport 4 ( 205/40 ZR17 (84Y) XL )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 20, "PRODUCT" ],
+      [ 25, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Lyhyt mekko Ikks BQ30155-75",
+    "entities": [
+      [ 0, 11, "PRODUCT" ],
+      [ 12, 16, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Gabrielle Accessories Jewellery Earrings Hoops Kulta Pilgrim",
+    "entities": [
+      [ 22, 31, "PRODUCT" ],
+      [ 32, 40, "PRODUCT" ],
+      [ 47, 52, "COLOR" ],
+      [ 53, 60, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Hammered juomalasi 50 cl Amber",
+    "entities": [
+      [ 9, 18, "PRODUCT" ],
+      [ 19, 24, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Healing Moisture Tamanu Cream Shampoo 50ml",
+    "entities": [
+      [ 8, 16, "PRODUCT" ],
+      [ 24, 29, "PRODUCT" ],
+      [ 30, 37, "PRODUCT" ],
+      [ 38, 42, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Montana Collection By SBG Silm\u00e4lasit MM594 E",
+    "entities": [
+      [ 0, 25, "BRAND" ],
+      [ 26, 36, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Drawstring Dress Polvipituinen Mekko Sininen Lee Jeans",
+    "entities": [
+      [ 11, 16, "PRODUCT" ],
+      [ 17, 36, "PRODUCT" ],
+      [ 37, 44, "COLOR" ],
+      [ 45, 54, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Healing Moisture Tamanu Cream Shampoo 750ml",
+    "entities": [
+      [ 24, 29, "PRODUCT" ],
+      [ 30, 37, "PRODUCT" ],
+      [ 38, 43, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Synchro Skin Self Refreshing Foundation 30 gr No. 110",
+    "entities": [
+      [ 29, 39, "PRODUCT" ],
+      [ 40, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Slfmyla-Florenta Ls Aop Midi Dress B Polvipituinen Mekko Oranssi Selected Femme",
+    "entities": [
+      [ 29, 34, "PRODUCT" ],
+      [ 37, 56, "PRODUCT" ],
+      [ 57, 64, "COLOR" ],
+      [ 65, 79, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Rodebjer Kellman Cotton Pitk\u00e4hihainen Pusero Paita Valkoinen RODEBJER",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 17, 23, "MATERIAL" ],
+      [ 24, 37, "PRODUCT" ],
+      [ 38, 44, "PRODUCT" ],
+      [ 45, 50, "PRODUCT" ],
+      [ 51, 60, "COLOR" ],
+      [ 61, 69, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Wiley X Aurinkolasit Kingpin Polarized ACKNG09",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Luannegz Skirt Ma19 Polvipituinen Hame Sininen Gestuz",
+    "entities": [
+      [ 9, 14, "PRODUCT" ],
+      [ 34, 38, "PRODUCT" ],
+      [ 39, 46, "COLOR" ],
+      [ 47, 53, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Montana Collection By SBG Silm\u00e4lasit MM594 F",
+    "entities": [
+      [ 0, 25, "BRAND" ],
+      [ 26, 36, "PRODUCT" ],
+      [ 43, 44, "GENDER" ]
+    ]
+  },
+  {
+    "content": "Michelin Pilot Super Sport ( 295/35 ZR20 (101Y) K1 )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 26, "PRODUCT" ],
+      [ 29, 50, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Bx 2.0 Crew Svetari Collegepaita Sininen Adidas Originals",
+    "entities": [
+      [ 12, 19, "PRODUCT" ],
+      [ 20, 32, "PRODUCT" ],
+      [ 33, 40, "COLOR" ],
+      [ 41, 57, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Taylor Coat Outerwear Faux Fur Ruskea Stand Studio",
+    "entities": [
+      [ 12, 21, "PRODUCT" ],
+      [ 7, 11, "PRODUCT" ],
+      [ 31, 37, "COLOR" ],
+      [ 38, 50, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Sephina Wrap Dress Polvipituinen Mekko Moniv\u00e4rinen/Kuvioitu Just Female",
+    "entities": [
+      [ 13, 18, "PRODUCT" ],
+      [ 19, 38, "PRODUCT" ],
+      [ 39, 59, "COLOR" ],
+      [ 60, 71, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Oakley Aurinkolasit OO9208 RADAR EV PATH 920896",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Healing Moisture Tamanu Cream Shampoo, 1000ml",
+    "entities": [
+      [ 24, 29, "PRODUCT" ],
+      [ 30, 37, "PRODUCT" ],
+      [ 39, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Pollie Top Blouses Short-sleeved Keltainen Notes Du Nord",
+    "entities": [
+      [ 11, 18, "PRODUCT" ],
+      [ 18, 32, "PRODUCT" ],
+      [ 33, 42, "COLOR" ],
+      [ 43, 56, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Rime riippuvalaisin \u00d8 37 cm Valkoinen",
+    "entities": [
+      [ 5, 19, "PRODUCT" ],
+      [ 22, 27, "SIZE/WEIGHT" ],
+      [ 28, 37, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Healing Moisture Tamanu Cream Shampoo, 300ml",
+    "entities": [
+      [ 24, 29, "PRODUCT" ],
+      [ 30, 37, "PRODUCT" ],
+      [ 39, 44, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Healing Moisture Kukui Nut Conditioner 50ml",
+    "entities": [
+      [ 27, 38, "PRODUCT" ],
+      [ 39, 43, "SIZE/WEIGHT" ],
+      [ 23, 26, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Vredestein Comtrac 2 All Season + ( 205/65 R16C 107/105T )",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 35, 55, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Polaroid Aurinkolasit PLD 2068/S/X Polarized 807/UC",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Ahrex TP650 26 Degree Bent",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 22, 26, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Matador MP62 All Weather Evo ( 185/60 R15 88T XL )",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 28, "PRODUCT" ],
+      [ 31, 48, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Matador MPS 400 Variant All Weather 2 ( 205/75 R16C 110/108R 8PR )",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 40, 64, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Emilio Pucci Aurinkolasit EP0008 56B",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 13, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Healing Moisture Kukui Nut Conditioner, 1000ml",
+    "entities": [
+      [ 23, 26, "MATERIAL" ],
+      [ 27, 38, "PRODUCT" ],
+      [ 40, 46, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Square Lth 35mm Accessories Belts Classic Belts Ruskea Calvin Klein",
+    "entities": [
+      [ 48, 54, "COLOR" ],
+      [ 28, 33, "PRODUCT" ],
+      [ 11, 15, "SIZE/WEIGHT" ],
+      [ 55, 67, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Black Opium, EdP 30ml",
+    "entities": [
+      [ 0, 5, "COLOR" ],
+      [ 17, 21, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Cherry Dog Sock Underwear Socks Regular Socks Sininen Happy Socks",
+    "entities": [
+      [ 26, 31, "PRODUCT" ],
+      [ 46, 53, "COLOR" ],
+      [ 54, 65, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Eva Lg Kumisaappaat Keng\u00e4t Punainen Tretorn",
+    "entities": [
+      [ 36, 43, "BRAND" ],
+      [ 20, 26, "PRODUCT" ],
+      [ 27, 35, "COLOR" ],
+      [ 4, 6, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "PIXI Eye Reflections Shadow Palette Natural Beauty",
+    "entities": [ [ 0, 4, "BRAND" ] ]
+  },
+  {
+    "content": "Shoes Tennarit Sneakerit Keng\u00e4t Ruskea Gulliver",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 39, 47, "BRAND" ],
+      [ 32, 38, "COLOR" ],
+      [ 25, 31, "PRODUCT" ],
+      [ 15, 24, "PRODUCT" ],
+      [ 6, 14, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Daisy kakkuvati, \u00d8 22 cm faded army",
+    "entities": [
+      [ 19, 24, "SIZE/WEIGHT" ],
+      [ 6, 15, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Wide Maljakko 40 cm, Smoked Pearl",
+    "entities": [
+      [ 14, 19, "SIZE/WEIGHT" ],
+      [ 5, 13, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Icons Pin Point -pussilakana 220x220 cm Blue",
+    "entities": [
+      [ 29, 39, "SIZE/WEIGHT" ],
+      [ 40, 44, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Wan C/W Katto/Sein\u00e4valaisin, Valkoinen",
+    "entities": [
+      [ 29, 38, "COLOR" ],
+      [ 8, 13, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Pampa Mariposa BF Chair, Crude Oak/Black",
+    "entities": [
+      [ 35, 40, "COLOR" ],
+      [ 25, 34, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Veluxe Pearl Antiqued Beauty WOMEN Makeup Eyes Eyeshadow - Not Palettes Moniv\u00e4rinen/Kuvioitu M.A.C.",
+    "entities": [
+      [ 93, 99, "BRAND" ],
+      [ 29, 34, "GENDER" ],
+      [ 47, 56, "PRODUCT" ],
+      [ 72, 83, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Prodesign Silm\u00e4lasit 5640 5534",
+    "entities": [
+      [ 10, 20, "PRODUCT" ],
+      [ 0, 9, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Running Moomin muumitarjotin py\u00f6re\u00e4 38 cm",
+    "entities": [ [ 36, 41, "SIZE/WEIGHT" ] ]
+  },
+  {
+    "content": "G Star Raw Aurinkolasit G-Star Raw GS603S 001",
+    "entities": [
+      [ 11, 23, "PRODUCT" ],
+      [ 0, 10, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Black Opium, EdP 50ml",
+    "entities": [
+      [ 0, 5, "COLOR" ],
+      [ 17, 21, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Sandals 96861 Shoes Summer Shoes Flat Sandals Ruskea Carla F",
+    "entities": [
+      [ 0, 7, "PRODUCT" ],
+      [ 14, 19, "PRODUCT" ],
+      [ 46, 52, "COLOR" ],
+      [ 53, 60, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Ray-Ban Blaze Shooter RB3581N 153/7V",
+    "entities": [ [ 0, 7, "BRAND" ] ]
+  },
+  {
+    "content": "Superliner Le Khol, 111 Urban Grey",
+    "entities": [ [ 30, 34, "COLOR" ] ]
+  },
+  {
+    "content": "Ray-Ban Blaze Shooter RB3581N 90387J",
+    "entities": [ [ 0, 7, "BRAND" ] ]
+  },
+  {
+    "content": "Hmlisam Hoodie Svetari Collegepaita Sininen Hummel",
+    "entities": [
+      [ 36, 43, "COLOR" ],
+      [ 44, 50, "BRAND" ],
+      [ 8, 22, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Huawei Freebuds 3 Bluetooth Vastamelukuulokkeet Punainen",
+    "entities": [
+      [ 48, 56, "COLOR" ],
+      [ 28, 47, "PRODUCT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Icons Pin Point -tyynyliina 65x65 cm Blue",
+    "entities": [
+      [ 28, 36, "SIZE/WEIGHT" ],
+      [ 37, 41, "COLOR" ],
+      [ 17, 27, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Clarks  UN TYNAMO TURN",
+    "entities": [
+      [ 7, 13, "BRAND" ],
+      [ 0, 6, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Pants Woven Kapeat Housut Pillilahkeet Musta Esprit Casual",
+    "entities": [
+      [ 39, 44, "COLOR" ],
+      [ 45, 58, "BRAND" ],
+      [ 19, 25, "PRODUCT" ],
+      [ 0, 5, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Polo Ralph Lauren Silm\u00e4lasit PH2126 5534",
+    "entities": [
+      [ 18, 28, "PRODUCT" ],
+      [ 0, 4, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Russell - Iconic Tackle Twill Crewneck - Keltainen - S",
+    "entities": [
+      [ 41, 50, "COLOR" ],
+      [ 53, 54, "SIZE/WEIGHT" ],
+      [ 0, 7, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Day London Cb Bags Small Shoulder Bags - Crossbody Bags Keltainen DAY Et",
+    "entities": [
+      [ 56, 65, "COLOR" ],
+      [ 41, 55, "PRODUCT" ],
+      [ 14, 18, "PRODUCT" ],
+      [ 66, 72, "BRAND" ],
+      [ 19, 24, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Jacksonville T-shirts & Tops Sleeveless Valkoinen American Vintage",
+    "entities": [
+      [ 40, 49, "COLOR" ],
+      [ 24, 28, "PRODUCT" ],
+      [ 13, 21, "PRODUCT" ],
+      [ 50, 66, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Street Tray M Matalavartiset Sneakerit Tennarit Valkoinen ECCO",
+    "entities": [
+      [ 48, 57, "COLOR" ],
+      [ 39, 47, "PRODUCT" ],
+      [ 29, 38, "PRODUCT" ],
+      [ 58, 62, "BRAND" ],
+      [ 12, 13, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Stella McCartney Aurinkolasit SK0030S Kids 008",
+    "entities": [
+      [ 17, 29, "PRODUCT" ],
+      [ 0, 16, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Michelin Alpin 5 ( 215/60 R17 100H XL )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 18, 37, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Jimmy Choo Silm\u00e4lasit JC242 086",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 11, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Sandaalit Juicy Couture  WISP",
+    "entities": [
+      [ 10, 23, "BRAND" ],
+      [ 0, 9, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Kate Spade Silm\u00e4lasit Amelinda HT8",
+    "entities": [
+      [ 11, 21, "COLOR" ],
+      [ 0, 10, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Sandaalit Camper  KAROLINA",
+    "entities": [
+      [ 0, 9, "PRODUCT" ],
+      [ 10, 16, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Jimmy Choo Aurinkolasit BEN/S 807",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 11, 23, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Coach Silm\u00e4lasit HC6127U 5535",
+    "entities": [
+      [ 6, 16, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Superdry Silm\u00e4lasit SDO LINCOLN 108",
+    "entities": [
+      [ 9, 19, "PRODUCT" ],
+      [ 0, 8, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Cebe Aurinkolasit QUEENSTOWN CBS031",
+    "entities": [
+      [ 5, 17, "PRODUCT" ],
+      [ 0, 4, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Festina 99999 Miesten kello F16826-B Sininen/Ter\u00e4s \ufffd44 mm",
+    "entities": [
+      [ 14, 21, "GENDER" ],
+      [ 22, 27, "PRODUCT" ],
+      [ 37, 44, "COLOR" ],
+      [ 0, 7, "BRAND" ],
+      [ 52, 57, "SIZE/WEIGHT" ],
+      [ 45, 50, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Regular Chino Shorts Shorts Chinos Shorts Musta Morris",
+    "entities": [
+      [ 42, 47, "COLOR" ],
+      [ 48, 54, "BRAND" ],
+      [ 14, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Hackett Silm\u00e4lasit HEB178 684",
+    "entities": [
+      [ 8, 18, "PRODUCT" ],
+      [ 0, 7, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Seventh Street Silm\u00e4lasit 7A540 DQ2",
+    "entities": [
+      [ 15, 25, "PRODUCT" ],
+      [ 0, 14, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Ray-Ban Marshal RB3648 002/58",
+    "entities": [ [ 0, 7, "BRAND" ] ]
+  },
+  {
+    "content": "Sandaalit Dorking  SUMMER",
+    "entities": [ [ 0, 9, "PRODUCT" ] ]
+  },
+  {
+    "content": "Screwdivision-D Over Sweat-Shirt Svetari Collegepaita Musta Diesel",
+    "entities": [
+      [ 21, 32, "PRODUCT" ],
+      [ 54, 59, "COLOR" ],
+      [ 60, 66, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Superliner Le Khol, 116 Forest Green",
+    "entities": [ [ 24, 36, "COLOR" ] ]
+  },
+  {
+    "content": "Swarovski Aurinkolasit SK0203 90W",
+    "entities": [
+      [ 10, 22, "PRODUCT" ],
+      [ 0, 9, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Seventh Street Silm\ufffdlasit 7A539 2M2",
+    "entities": [
+      [ 15, 25, "PRODUCT" ],
+      [ 0, 14, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Ray-Ban RB3558 002/8G",
+    "entities": [ [ 0, 7, "BRAND" ] ]
+  },
+  {
+    "content": "Bandon Print Polo Men Polos Short-sleeved Punainen Peak Performance",
+    "entities": [
+      [ 42, 50, "COLOR" ],
+      [ 13, 17, "BRAND" ],
+      [ 28, 41, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Boyleg Maillot Uimapuku Uima-asut Sininen Seafolly",
+    "entities": [
+      [ 34, 41, "COLOR" ],
+      [ 42, 50, "BRAND" ],
+      [ 15, 23, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Paita Selma",
+    "entities": [ [ 0, 5, "PRODUCT" ] ]
+  },
+  {
+    "content": "Ciel Small Ear Accessories Jewellery Earrings Studs Kulta SN\ufffd Of Sweden",
+    "entities": [
+      [ 52, 57, "MATERIAL" ],
+      [ 27, 45, "PRODUCT" ],
+      [ 58, 71, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Prada Silm\u00e4lasit PR65RV VIC1O1",
+    "entities": [
+      [ 6, 16, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Perf Tee M Night Night T-shirts Short-sleeved Musta Bj\u00f6rn Borg",
+    "entities": [
+      [ 52, 62, "BRAND" ],
+      [ 23, 32, "PRODUCT" ],
+      [ 32, 45, "PRODUCT" ],
+      [ 46, 51, "COLOR" ],
+      [ 9, 10, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Manhattan huopa steel blue-dusty ocean",
+    "entities": [
+      [ 10, 15, "PRODUCT" ],
+      [ 22, 32, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Boston Candlestick/Vase, 21,5 cm",
+    "entities": [
+      [ 25, 32, "SIZE/WEIGHT" ],
+      [ 19, 23, "PRODUCT" ],
+      [ 7, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Polo Ralph Lauren Aurinkolasit PH4099 564873",
+    "entities": [
+      [ 18, 30, "PRODUCT" ],
+      [ 0, 17, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Paita Allie",
+    "entities": [ [ 0, 5, "PRODUCT" ] ]
+  },
+  {
+    "content": "SuperStay 24H Foundation 30ml, Fawn",
+    "entities": [ [ 25, 29, "SIZE/WEIGHT" ] ]
+  },
+  {
+    "content": "Elara Dress Polvipituinen Mekko Sininen By Malina",
+    "entities": [
+      [ 40, 49, "BRAND" ],
+      [ 32, 39, "COLOR" ],
+      [ 26, 31, "PRODUCT" ],
+      [ 6, 11, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Prada Silm\u00e4lasit PR10VV UF31O1",
+    "entities": [
+      [ 6, 16, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Wiley X Silm\u00e4lasit Bounce Kids YFBNC02",
+    "entities": [
+      [ 8, 19, "PRODUCT" ],
+      [ 0, 7, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Jazz 149 Kylpyhuoneenmatto 70x160cm",
+    "entities": [
+      [ 27, 35, "SIZE/WEIGHT" ],
+      [ 9, 26, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Bulb Riippuvalaisin Sr1, Kirkas Johto",
+    "entities": [ [ 0, 4, "PRODUCT" ] ]
+  },
+  {
+    "content": "Chrissline jatkosarja micro 100 ledi\u00e4",
+    "entities": [ [ 28, 36, "MATERIAL" ] ]
+  },
+  {
+    "content": "Mercedes Silm\u00e4lasit M 6042 D",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Dior Aurinkolasit BLACK TIE 247S VK6/E8",
+    "entities": [
+      [ 5, 17, "PRODUCT" ],
+      [ 18, 23, "COLOR" ],
+      [ 0, 4, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Extra Dimension Rich Core Beauty WOMEN Makeup Eyes Eyeshadow - Not Palettes Moniv\u00e4rinen/Kuvioitu M.A.C.",
+    "entities": [
+      [ 97, 103, "BRAND" ],
+      [ 33, 38, "GENDER" ],
+      [ 51, 60, "PRODUCT" ],
+      [ 76, 87, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Vibratissimo Play Gel VEGAN 50ml",
+    "entities": [
+      [ 28, 32, "SIZE/WEIGHT" ],
+      [ 22, 27, "MATERIAL" ],
+      [ 13, 21, "PRODUCT" ],
+      [ 0, 12, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Tiffany & Co. Aurinkolasit TF3068 61419S",
+    "entities": [
+      [ 14, 26, "PRODUCT" ],
+      [ 0, 13, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Alpina Aurinkolasit Nylos HR A8635331",
+    "entities": [
+      [ 7, 19, "PRODUCT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Silk Top Regular W/Elastic Band T-shirts & Tops Sleeveless Vaaleanpunainen Rosemunde",
+    "entities": [
+      [ 75, 84, "BRAND" ],
+      [ 59, 74, "COLOR" ],
+      [ 43, 47, "PRODUCT" ],
+      [ 32, 40, "PRODUCT" ],
+      [ 0, 5, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Lyhyt mekko Armani Exchange  HELABINA",
+    "entities": [
+      [ 6, 11, "PRODUCT" ],
+      [ 12, 27, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tommy Hilfiger Silm\u00e4lasit TH 1494 900",
+    "entities": [
+      [ 0, 14, "BRAND" ],
+      [ 15, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Chopard Silm\u00e4lasit VCHB52G 579",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Chloe Aurinkolasit CE 158S 856",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Ladies Thin Ankle Sock Lingerie Hosiery Socks Harmaa Decoy",
+    "entities": [
+      [ 40, 45, "PRODUCT" ],
+      [ 0, 6, "GENDER" ],
+      [ 53, 58, "BRAND" ],
+      [ 46, 52, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Casio Casio Sport Miesten kello MTD-1060D-7A2 Hopea/Ter\u00e4s \u00d845.5 mm",
+    "entities": [
+      [ 59, 66, "SIZE/WEIGHT" ],
+      [ 52, 57, "MATERIAL" ],
+      [ 46, 51, "COLOR" ],
+      [ 26, 31, "PRODUCT" ],
+      [ 18, 25, "GENDER" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "SuperStay 24H Foundation 30ml, Light Beige",
+    "entities": [
+      [ 31, 42, "COLOR" ],
+      [ 25, 29, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "SuperStay 24H Foundation 30ml, Sun Beige",
+    "entities": [
+      [ 31, 40, "COLOR" ],
+      [ 25, 29, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "3V CR2025 Lithium Paristo Philips, 1 kpl",
+    "entities": [
+      [ 26, 33, "BRAND" ],
+      [ 10, 25, "PRODUCT" ],
+      [ 36, 40, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Michelin Pilot Alpin 5 ( 265/50 R20 111V XL, SUV )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 25, 43, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Dr Martens  1460",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 17, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Smoke juomalasi 35 cl",
+    "entities": [
+      [ 6, 15, "PRODUCT" ],
+      [ 16, 21, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Tray Table, D70 H45cm, Galv",
+    "entities": [
+      [ 17, 21, "SIZE/WEIGHT" ],
+      [ 0, 10, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Tiffany & Co. Silm\u00e4lasit TF2168 8208",
+    "entities": [
+      [ 14, 24, "PRODUCT" ],
+      [ 0, 13, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Amazonia Shampoo 200ml",
+    "entities": [
+      [ 9, 16, "PRODUCT" ],
+      [ 17, 22, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Nokian Nordman 7 SUV ( 245/65 R17 111T XL, nastarengas  )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 22, 40, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Amazonia Repairing Balm 100ml",
+    "entities": [
+      [ 9, 23, "PRODUCT" ],
+      [ 24, 29, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Alpina Aurinkolasit Sibiria A8316337",
+    "entities": [
+      [ 7, 19, "PRODUCT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tytt\u00f6jen sandaalit Acebo's  SARINO",
+    "entities": [
+      [ 9, 18, "PRODUCT" ],
+      [ 0, 8, "GENDER" ],
+      [ 19, 26, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Sc-Louise Pitk\u00e4hihainen Paita Musta Soyaconcept",
+    "entities": [
+      [ 36, 47, "BRAND" ],
+      [ 30, 35, "COLOR" ],
+      [ 24, 29, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "P\u00f6rr\u00f6inen tekoturkistakki",
+    "entities": [ [ 10, 25, "PRODUCT" ] ]
+  },
+  {
+    "content": "Amazonia Mask 250ml",
+    "entities": [
+      [ 14, 19, "SIZE/WEIGHT" ],
+      [ 9, 13, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Sandaalit Le Temps des Cerises  POLY",
+    "entities": [
+      [ 0, 9, "PRODUCT" ],
+      [ 10, 30, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Ginna Blouses Short-sleeved Musta Custommade",
+    "entities": [
+      [ 6, 13, "PRODUCT" ],
+      [ 28, 33, "COLOR" ],
+      [ 34, 44, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Bering Ceramic Naisten kello 11429-787 Sininen/Ter\u00e4s \u00d829 mm",
+    "entities": [
+      [ 54, 59, "SIZE/WEIGHT" ],
+      [ 47, 52, "MATERIAL" ],
+      [ 39, 46, "COLOR" ],
+      [ 23, 28, "PRODUCT" ],
+      [ 15, 22, "GENDER" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tom Ford Aurinkolasit FT0613 01C",
+    "entities": [
+      [ 9, 21, "PRODUCT" ],
+      [ 0, 8, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Karl Lagerfeld Silm\u00e4lasit KL 1003 616",
+    "entities": [
+      [ 15, 25, "PRODUCT" ],
+      [ 0, 14, "BRAND" ]
+    ]
+  },
+  {
+    "content": "First Instinct, Deostick 75g",
+    "entities": [
+      [ 25, 28, "SIZE/WEIGHT" ],
+      [ 16, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Silver Essence, EdP 100ml",
+    "entities": [ [ 20, 25, "SIZE/WEIGHT" ] ]
+  },
+  {
+    "content": "Berlin Armchair Loose Cover , Caleido Beige",
+    "entities": [
+      [ 30, 43, "COLOR" ],
+      [ 7, 27, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Lastenkeng\u00e4t Hummel  STADIL POLY BOOT MID JR",
+    "entities": [
+      [ 0, 6, "GENDER" ],
+      [ 6, 12, "PRODUCT" ],
+      [ 33, 37, "PRODUCT" ],
+      [ 13, 19, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Crull\u00e9 19034 C2",
+    "entities": [ [ 0, 6, "BRAND" ] ]
+  },
+  {
+    "content": "Chloe Aurinkolasit CE 114SD Asian Fit 776",
+    "entities": [
+      [ 6, 18, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Institutional Logo Waist Pack Bumbag Vy\u00f6laukku Laukku Musta Calvin Klein",
+    "entities": [
+      [ 60, 72, "BRAND" ],
+      [ 54, 59, "COLOR" ],
+      [ 47, 53, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Marc Jacobs Aurinkolasit MARC 168/S GHP/IC",
+    "entities": [
+      [ 0, 11, "BRAND" ],
+      [ 12, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Moncler Silm\u00e4lasit ML5046 092",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Porsche Design Silm\u00e4lasit P8326 C",
+    "entities": [
+      [ 0, 14, "BRAND" ],
+      [ 15, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Blake Nora Blazer Bleiseri Puvun Takki Ruskea MOS MOSH",
+    "entities": [
+      [ 11, 17, "PRODUCT" ],
+      [ 33, 38, "PRODUCT" ],
+      [ 18, 32, "PRODUCT" ],
+      [ 39, 45, "COLOR" ],
+      [ 46, 54, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Flexagon Energy Tr 2.0 Shoes Sport Shoes Training Shoes- Golf/tennis/fitness Musta Reebok Performance",
+    "entities": [
+      [ 83, 101, "BRAND" ],
+      [ 77, 82, "COLOR" ],
+      [ 29, 40, "PRODUCT" ],
+      [ 23, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Rey Flat Ballerinat Ruskea Filippa K",
+    "entities": [
+      [ 20, 26, "COLOR" ],
+      [ 27, 36, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Satin Stretch - Lotte Bc Pitk\u00e4hihainen Pusero Paita Ruskea SAND",
+    "entities": [
+      [ 52, 58, "COLOR" ],
+      [ 59, 63, "BRAND" ],
+      [ 39, 51, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Supra  NOIZ",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 12, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Marc Jacobs Marc 441/F J5G",
+    "entities": [ [ 0, 11, "BRAND" ] ]
+  },
+  {
+    "content": "Quay Australia Aurinkolasit QU-000435 omen MILKYTORT/BLU",
+    "entities": [
+      [ 15, 27, "PRODUCT" ],
+      [ 0, 14, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Polaroid PLD 4073/F/S 086/LA",
+    "entities": [ [ 0, 8, "BRAND" ] ]
+  },
+  {
+    "content": "Bobbi Brown Silmalasit The Hemsley RYW",
+    "entities": [
+      [ 12, 22, "PRODUCT" ],
+      [ 0, 11, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Paita Fondato",
+    "entities": [ [ 0, 5, "PRODUCT" ] ]
+  },
+  {
+    "content": "Salvatore Ferragamo Aurinkolasit SF 189S 742",
+    "entities": [
+      [ 20, 32, "PRODUCT" ],
+      [ 0, 19, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Hair Cond& Groom Aid Formula 133 Hoitoaine Hiustenhoito Nude Kiehl's",
+    "entities": [
+      [ 61, 68, "BRAND" ],
+      [ 56, 60, "COLOR" ],
+      [ 43, 55, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Binasz Jeans Suorat Farkut Beige Saint Tropez",
+    "entities": [
+      [ 20, 26, "PRODUCT" ],
+      [ 7, 12, "PRODUCT" ],
+      [ 33, 45, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Woms Boots Shoes Boots Ankle Boots Ankle Boot - Flat Musta Tamaris",
+    "entities": [
+      [ 5, 10, "PRODUCT" ],
+      [ 11, 16, "PRODUCT" ],
+      [ 59, 66, "BRAND" ],
+      [ 53, 58, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Darling Lace Lingerie Bras & Tops Soft Bras Beige Love Stories",
+    "entities": [
+      [ 22, 33, "PRODUCT" ],
+      [ 50, 62, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Danish Design Dress Naisten kello IV15Q1175 Hopea/Nahka \u00d830 mm",
+    "entities": [
+      [ 57, 62, "SIZE/WEIGHT" ],
+      [ 50, 55, "MATERIAL" ],
+      [ 44, 49, "COLOR" ],
+      [ 28, 33, "PRODUCT" ],
+      [ 20, 27, "GENDER" ],
+      [ 0, 13, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tiffany & Co. Aurinkolasit TF3070 60019S",
+    "entities": [
+      [ 0, 13, "BRAND" ],
+      [ 14, 26, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Prodesign Silm\u00e4lasit 1791 9045",
+    "entities": [
+      [ 0, 9, "BRAND" ],
+      [ 10, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Be Fabulous Fine Cream Conditi R Hoitoaine Hiukset Nude Revlon Professional",
+    "entities": [
+      [ 56, 75, "BRAND" ],
+      [ 51, 55, "COLOR" ],
+      [ 33, 50, "PRODUCT" ],
+      [ 17, 22, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Sleepover Set Accessories Travel Accessories Kermanv\u00e4rinen Love Stories",
+    "entities": [ [ 59, 71, "BRAND" ] ]
+  },
+  {
+    "content": "Keng\u00e4t Les Trop\u00e9ziennes par M Belarbi  PACO",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 37, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tjw Soft Touch V-Neck Sweater Neulepaita Valkoinen Tommy Jeans",
+    "entities": [
+      [ 51, 62, "BRAND" ],
+      [ 41, 50, "COLOR" ],
+      [ 30, 40, "PRODUCT" ],
+      [ 22, 29, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Etnia Barcelona Aurinkolasit Bonanova Sun YWHV",
+    "entities": [
+      [ 0, 15, "BRAND" ],
+      [ 16, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Sili\u00e4v\u00e4 tennispaita Roger Kent Vaaleansininen::Laivastonsininen",
+    "entities": [
+      [ 8, 19, "PRODUCT" ],
+      [ 31, 45, "COLOR" ],
+      [ 47, 63, "COLOR" ],
+      [ 20, 30, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Otto Swim Pants Seersucker Shortsit Ruskea Liewood",
+    "entities": [
+      [ 5, 15, "PRODUCT" ],
+      [ 36, 42, "COLOR" ],
+      [ 43, 50, "BRAND" ],
+      [ 27, 35, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Persol Aurinkolasit PO3170S 9041Q8",
+    "entities": [
+      [ 7, 19, "PRODUCT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Swiss Military Hanowa Miesten kello 06-3308.04.007 Musta/Ter\u00e4s \u00d844",
+    "entities": [
+      [ 57, 62, "MATERIAL" ],
+      [ 51, 56, "COLOR" ],
+      [ 30, 35, "PRODUCT" ],
+      [ 22, 29, "GENDER" ],
+      [ 0, 14, "BRAND" ]
+    ]
+  },
+  {
+    "content": "T-paidat pitkill\u00e4 hihoilla Moony Mood  FIPOLO",
+    "entities": [
+      [ 0, 8, "PRODUCT" ],
+      [ 27, 37, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Polo Ralph Lauren - Custom Fit Denim Shirt - Sininen - XL",
+    "entities": [
+      [ 45, 52, "COLOR" ],
+      [ 55, 57, "SIZE/WEIGHT" ],
+      [ 0, 17, "BRAND" ],
+      [ 37, 42, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Guess 99999 Naisten kello W1231L2 Hopea/Kullans\u00e4vytetty ter\u00e4s \u00d838",
+    "entities": [
+      [ 63, 65, "SIZE/WEIGHT" ],
+      [ 40, 61, "MATERIAL" ],
+      [ 34, 39, "COLOR" ],
+      [ 20, 25, "COLOR" ],
+      [ 12, 19, "GENDER" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Jbl Clip 3 Bluetooth-Kaiutin Harmaa",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 29, 35, "COLOR" ],
+      [ 11, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Olivia Toppatakki Vaaleanpunainen MarMar Cph",
+    "entities": [
+      [ 34, 44, "BRAND" ],
+      [ 18, 33, "COLOR" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Padded Parka Parka Takki Musta Rains",
+    "entities": [
+      [ 25, 30, "COLOR" ],
+      [ 19, 24, "PRODUCT" ],
+      [ 31, 36, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Icons Original -k\u00e4sipyyhe 50x100 cm Black",
+    "entities": [
+      [ 36, 41, "COLOR" ],
+      [ 26, 35, "SIZE/WEIGHT" ],
+      [ 16, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "L'Eau d'Issey Pour Homme, Shower gel 200ml",
+    "entities": [
+      [ 26, 36, "PRODUCT" ],
+      [ 37, 42, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Vintage, EdT 125ml",
+    "entities": [ [ 13, 18, "SIZE/WEIGHT" ] ]
+  },
+  {
+    "content": "Tonymoly I'M Hand Cream Avocado 30ml Beauty MEN Skin Care Body Hand Cream Nude Tonymoly",
+    "entities": [
+      [ 32, 36, "SIZE/WEIGHT" ],
+      [ 44, 47, "GENDER" ],
+      [ 13, 23, "PRODUCT" ],
+      [ 24, 31, "MATERIAL" ],
+      [ 0, 8, "BRAND" ],
+      [ 74, 78, "COLOR" ]
+    ]
+  },
+  {
+    "content": "3176 - Latia Pitk\u00e4hihainen Paita Sininen SAND",
+    "entities": [
+      [ 41, 45, "BRAND" ],
+      [ 33, 40, "COLOR" ],
+      [ 27, 32, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Nautica BFD 100 Miesten kello N15107G Musta/Kumi \u00d849 mm",
+    "entities": [
+      [ 50, 55, "SIZE/WEIGHT" ],
+      [ 44, 49, "MATERIAL" ],
+      [ 38, 43, "COLOR" ],
+      [ 24, 29, "PRODUCT" ],
+      [ 16, 23, "GENDER" ],
+      [ 0, 7, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Satisfyer Love Triangle Black",
+    "entities": [
+      [ 24, 29, "COLOR" ],
+      [ 0, 9, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Oakley Aurinkolasit OO9271 FLAK 2.0 Asian Fit 927135",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Nautica NSR Miesten kello N12640G Musta/Kumi \u00d845 mm",
+    "entities": [
+      [ 40, 44, "MATERIAL" ],
+      [ 34, 39, "COLOR" ],
+      [ 20, 25, "PRODUCT" ],
+      [ 12, 19, "GENDER" ],
+      [ 0, 7, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Vera paita\r",
+    "entities": [ [ 5, 10, "PRODUCT" ] ]
+  },
+  {
+    "content": "Belted Midi Length Wrap Dress Polvipituinen Mekko Ruskea Scotch & Soda",
+    "entities": [
+      [ 50, 56, "COLOR" ],
+      [ 44, 49, "PRODUCT" ],
+      [ 57, 70, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Juomapullo 600ml Purple Leaves",
+    "entities": [
+      [ 0, 10, "PRODUCT" ],
+      [ 17, 23, "COLOR" ],
+      [ 11, 16, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Midge Mid Bootcut Wmn Bootcut Farkut Sininen G-star RAW",
+    "entities": [
+      [ 30, 36, "PRODUCT" ],
+      [ 37, 44, "COLOR" ],
+      [ 45, 55, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Andr\u00e9  KILWAL",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 12, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Icons Original -kylpypyyhe 100x150 cm Hazel brown",
+    "entities": [
+      [ 44, 49, "COLOR" ],
+      [ 27, 37, "SIZE/WEIGHT" ],
+      [ 16, 26, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Cazal Silm\u00e4lasit 1203 004",
+    "entities": [
+      [ 6, 16, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Pai Suoralahkeiset Housut Musta Masai",
+    "entities": [
+      [ 26, 31, "COLOR" ],
+      [ 19, 25, "PRODUCT" ],
+      [ 32, 37, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Taitoa Outerwear Thermo Outerwear Thermo Sets Sininen Reima",
+    "entities": [
+      [ 46, 53, "COLOR" ],
+      [ 17, 33, "PRODUCT" ],
+      [ 54, 59, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Olymp\u00e9a, Body lotion 200ml",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 9, 20, "PRODUCT" ],
+      [ 21, 26, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Bvlgari Silm\u00e4lasit BV2217B 2033",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Bering Ceramic Naisten kello 11435-787 Sininen/Ter\u00e4s 35 mm",
+    "entities": [
+      [ 54, 59, "SIZE/WEIGHT" ],
+      [ 47, 52, "MATERIAL" ],
+      [ 39, 46, "COLOR" ],
+      [ 23, 28, "PRODUCT" ],
+      [ 15, 22, "GENDER" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Malachite Necklace Adj. 40-48 Cm Accessories Jewellery Necklaces Dainty Necklaces Kulta Pernille Corydon",
+    "entities": [
+      [ 24, 32, "SIZE/WEIGHT" ],
+      [ 45, 54, "PRODUCT" ],
+      [ 55, 65, "PRODUCT" ],
+      [ 82, 87, "MATERIAL" ],
+      [ 88, 104, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Bolle Aurinkolasit Slate Polarized 12425",
+    "entities": [
+      [ 6, 18, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Art Peili Setti 23x48cm, Harmaa",
+    "entities": [
+      [ 16, 23, "SIZE/WEIGHT" ],
+      [ 4, 9, "PRODUCT" ],
+      [ 25, 31, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Birgacr Shirt Pitk\u00e4hihainen Paita Ruskea Cream",
+    "entities": [
+      [ 28, 33, "PRODUCT" ],
+      [ 8, 13, "PRODUCT" ],
+      [ 34, 40, "COLOR" ],
+      [ 41, 46, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Simpo Ja Outerwear Faux Fur Musta ICHI",
+    "entities": [
+      [ 28, 33, "COLOR" ],
+      [ 34, 38, "BRAND" ],
+      [ 0, 5, "PRODUCT" ],
+      [ 9, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Fatma L_s Mesh Dress Exp Mekko Moniv\u00e4rinen/Kuvioitu The New",
+    "entities": [
+      [ 31, 42, "COLOR" ],
+      [ 25, 30, "PRODUCT" ],
+      [ 52, 59, "BRAND" ],
+      [ 10, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Flawless Finish Mousse Makeup 02 Natural Meikkivoide Meikki Elizabeth Arden",
+    "entities": [
+      [ 60, 75, "BRAND" ],
+      [ 16, 22, "PRODUCT" ],
+      [ 33, 40, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Tri Vita C30, 30ml",
+    "entities": [ [ 14, 18, "SIZE/WEIGHT" ] ]
+  },
+  {
+    "content": "LED-yleisvalaisin Lumo IP44 9W 900lm 27x6cm",
+    "entities": [
+      [ 37, 43, "SIZE/WEIGHT" ],
+      [ 31, 36, "SIZE/WEIGHT" ],
+      [ 0, 3, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "matkalaukku David Jones  CHAUVETTO 40L",
+    "entities": [
+      [ 35, 38, "SIZE/WEIGHT" ],
+      [ 12, 23, "BRAND" ],
+      [ 0, 11, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Flaska Neo Authentic 0,75l Sininen",
+    "entities": [ [ 21, 26, "SIZE/WEIGHT" ] ]
+  },
+  {
+    "content": "Healing Moisture Moi Moi Hair Masque 200ml",
+    "entities": [
+      [ 37, 42, "SIZE/WEIGHT" ],
+      [ 8, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Volupte Liquid Balm 7 Huultenhoito Meikki Vaaleanpunainen Yves Saint Laurent",
+    "entities": [
+      [ 58, 76, "BRAND" ],
+      [ 42, 57, "COLOR" ],
+      [ 22, 34, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Healing Moisture Moi Moi Hair Masque 50ml",
+    "entities": [
+      [ 37, 41, "SIZE/WEIGHT" ],
+      [ 8, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t JB Martin  1FALBA",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 16, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Fendi Silm\u00e4lasit FF 0394 807",
+    "entities": [
+      [ 6, 16, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Jimmy Choo Ave/S PEF/EZ\r",
+    "entities": [ [ 0, 10, "BRAND" ] ]
+  },
+  {
+    "content": "6192621, Knit - Alexian O-Neck Neulepaita Py\u00f6re\u00f6 Kaula-aukko Sininen Solid",
+    "entities": [
+      [ 61, 68, "COLOR" ],
+      [ 69, 74, "BRAND" ],
+      [ 31, 41, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Carrera Carrera 1021/S V81/2K",
+    "entities": [ [ 0, 7, "BRAND" ] ]
+  },
+  {
+    "content": "Toppi Elsa\r",
+    "entities": [
+      [ 6, 10, "BRAND" ],
+      [ 0, 5, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Marc Jacobs Aurinkolasit MARC 182/S 086/HA",
+    "entities": [
+      [ 0, 11, "BRAND" ],
+      [ 12, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Healing Moisture Noni Fruit Leave-In Conditioner, 250ml",
+    "entities": [
+      [ 50, 55, "SIZE/WEIGHT" ],
+      [ 0, 16, "PRODUCT" ],
+      [ 37, 48, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "SmartBuy Collection Silm\u00e4lasit Diao T-1414 001",
+    "entities": [
+      [ 20, 30, "PRODUCT" ],
+      [ 0, 19, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Rolex Datejust 41 Miesten kello 126333-0017 Valkoinen/18K keltakultaa",
+    "entities": [
+      [ 44, 53, "COLOR" ],
+      [ 54, 57, "MATERIAL" ],
+      [ 26, 31, "PRODUCT" ],
+      [ 18, 25, "GENDER" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Pusero Robin",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 12, "BRAND" ]
+    ]
+  },
+  {
+    "content": "SmartBuy Collection Silm\u00e4lasit Roy 981E",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 20, 30, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Colonia Ebano, EdC 100ml",
+    "entities": [
+      [ 0, 13, "BRAND" ],
+      [ 19, 24, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Diesel  S-KBY",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 13, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Slflulu Ls Knit Short Cardigan Noos Neuletakki Ruskea Selected Femme",
+    "entities": [
+      [ 16, 30, "PRODUCT" ],
+      [ 36, 46, "PRODUCT" ],
+      [ 47, 53, "COLOR" ],
+      [ 54, 68, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Delaware3-1 Tiukat Farkut Sininen BOSS",
+    "entities": [
+      [ 19, 25, "PRODUCT" ],
+      [ 26, 33, "COLOR" ],
+      [ 34, 38, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Pusero Univ Tee 1 W",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 15, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Kietaisupusero KalvinIW Blouse",
+    "entities": [
+      [ 0, 14, "PRODUCT" ],
+      [ 15, 30, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Supermicro Mtw Bare Core I7/5/3 Q170 4X3.5 250W 64Gb Sata3 2Gbe Dp 1Pcie In Bare",
+    "entities": [ [ 0, 10, "BRAND" ] ]
+  },
+  {
+    "content": "Anna stretchtoppi",
+    "entities": [
+      [ 5, 17, "PRODUCT" ],
+      [ 0, 4, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Reppu Herschel  Retreat",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 6, 14, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Fossil Tailor Naisten kello ES4052 Valkoinen/Nahka \u00d834 mm",
+    "entities": [
+      [ 14, 21, "GENDER" ],
+      [ 22, 27, "PRODUCT" ],
+      [ 35, 50, "MATERIAL" ],
+      [ 51, 57, "SIZE/WEIGHT" ],
+      [ 0, 13, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Marc Jacobs Silm\u00e4lasit MJ 508 8NP",
+    "entities": [
+      [ 0, 11, "BRAND" ],
+      [ 12, 22, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Nokian Rotiiva AT ( LT235/75 R15 116/113S 10PR )",
+    "entities": [
+      [ 0, 17, "BRAND" ],
+      [ 20, 41, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Armour L2 ( 20.5 -25 16PR TL )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 12, 28, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Boss by Hugo Boss Silm\u00e4lasit BOSS 0948 807",
+    "entities": [
+      [ 18, 28, "PRODUCT" ],
+      [ 29, 33, "BRAND" ],
+      [ 8, 17, "BRAND" ],
+      [ 0, 4, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Marc O'Polo  NERETTA",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 18, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Korkokeng\u00e4t Andr\u00e9  JASMINE",
+    "entities": [
+      [ 0, 11, "PRODUCT" ],
+      [ 19, 26, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Lastenkeng\u00e4t New Balance  997",
+    "entities": [
+      [ 0, 12, "PRODUCT" ],
+      [ 13, 24, "BRAND" ]
+    ]
+  },
+  {
+    "content": "D1. Cotton Rib Knit Hat Accessories Headwear Beanies Musta GANT",
+    "entities": [
+      [ 59, 63, "BRAND" ],
+      [ 53, 58, "COLOR" ],
+      [ 20, 23, "PRODUCT" ],
+      [ 24, 35, "PRODUCT" ],
+      [ 36, 44, "PRODUCT" ],
+      [ 4, 10, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "T-Shirt Rn T-shirts Short-sleeved Valkoinen BOSS",
+    "entities": [
+      [ 0, 7, "PRODUCT" ],
+      [ 11, 19, "PRODUCT" ],
+      [ 34, 43, "COLOR" ],
+      [ 44, 48, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Shorts Shorts Leather Shorts Musta Sofie Schnoor",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 14, 21, "MATERIAL" ],
+      [ 29, 34, "COLOR" ],
+      [ 35, 48, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Longines Symphonette Naisten kello L2.305.4.71.6 Hopea/Ter\u00e4s \u00d816 mm",
+    "entities": [
+      [ 21, 28, "GENDER" ],
+      [ 29, 34, "PRODUCT" ],
+      [ 49, 60, "COLOR" ],
+      [ 61, 67, "SIZE/WEIGHT" ],
+      [ 0, 20, "BRAND" ]
+    ]
+  },
+  {
+    "content": "G\u00f6mma S\u00e4ilytyspurkki Small, Valkoinen",
+    "entities": [
+      [ 6, 20, "PRODUCT" ],
+      [ 21, 26, "SIZE/WEIGHT" ],
+      [ 28, 37, "COLOR" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Colonia Club, Shower gel 200ml",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 14, 24, "PRODUCT" ],
+      [ 25, 30, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Colonia Club, After shave balm 100ml",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 14, 30, "PRODUCT" ],
+      [ 31, 36, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Feeling Fine Top T-shirts & Tops Long-sleeved Valkoinen ODD MOLLY",
+    "entities": [
+      [ 13, 16, "PRODUCT" ],
+      [ 17, 32, "PRODUCT" ],
+      [ 46, 55, "COLOR" ],
+      [ 56, 65, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Wvngoag4 Shoes Sport Shoes Running Shoes Harmaa New Balance",
+    "entities": [
+      [ 9, 14, "PRODUCT" ],
+      [ 15, 26, "PRODUCT" ],
+      [ 27, 40, "PRODUCT" ],
+      [ 41, 47, "COLOR" ],
+      [ 48, 59, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Colonia Club, After shave lotion 100ml",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 14, 32, "PRODUCT" ],
+      [ 33, 38, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Retrosuperfuture Aurinkolasit Classic Kids 218",
+    "entities": [
+      [ 17, 29, "PRODUCT" ],
+      [ 0, 16, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Rae Accessories Headwear Beanies Harmaa RE:DESIGNED EST 2003",
+    "entities": [
+      [ 4, 15, "PRODUCT" ],
+      [ 16, 24, "PRODUCT" ],
+      [ 33, 39, "COLOR" ],
+      [ 40, 55, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tessa knitted sweater",
+    "entities": [
+      [ 14, 21, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Ecodenta Brilliant Whitening valkaiseva hammastahna 100ml",
+    "entities": [
+      [ 40, 51, "PRODUCT" ],
+      [ 52, 57, "SIZE/WEIGHT" ],
+      [ 0, 8, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Day Essence Neulepaita Vaaleanpunainen Day Birger Et Mikkelsen",
+    "entities": [
+      [ 12, 22, "PRODUCT" ],
+      [ 23, 38, "COLOR" ],
+      [ 39, 62, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Glo-Ball W1 Sein\u00e4valaisin",
+    "entities": [
+      [ 12, 25, "PRODUCT" ],
+      [ 0, 8, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Kontio WhitePaw Classic ( 205/75 R15 97R WW 65mm )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 26, 48, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Olkalaukut Karl Lagerfeld  K/ODINA HOBO",
+    "entities": [
+      [ 0, 10, "PRODUCT" ],
+      [ 11, 25, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Kate Spade Silm\u00e4lasit Camberly 0T4",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 11, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Colonia Pura, EdC 100ml",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 18, 23, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Lastenkeng\u00e4t Citrouille et Compagnie  LIMETTE",
+    "entities": [
+      [ 0, 12, "PRODUCT" ],
+      [ 38, 45, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Ray-Ban Tech Aurinkolasit RB4210 Wayfarer Light Ray 612213",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 13, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Chloe Aurinkolasit CE 137S 767",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Chloe Silm\u00e4lasit CE 2705 321",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Zac Posen Silm\u00e4lasit HUMPHREY Silver",
+    "entities": [
+      [ 10, 20, "PRODUCT" ],
+      [ 30, 36, "COLOR" ],
+      [ 0, 9, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Pusero jdyNora Life S/S Anglaise Top",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 14, "BRAND" ],
+      [ 20, 23, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Icon Crew Neulepaita Py\u00f6re\u00e4 Kaula-aukko Harmaa Abercrombie & Fitch",
+    "entities": [
+      [ 10, 20, "PRODUCT" ],
+      [ 40, 46, "COLOR" ],
+      [ 47, 66, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Breguet Classique Miesten kello 5140BB-12-9W6 Hopea/Nahka \u00d840 mm",
+    "entities": [
+      [ 18, 25, "GENDER" ],
+      [ 26, 31, "PRODUCT" ],
+      [ 46, 57, "MATERIAL" ],
+      [ 58, 64, "SIZE/WEIGHT" ],
+      [ 0, 17, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Dragon Alliance Aurinkolasit DR POST UP 001",
+    "entities": [
+      [ 16, 28, "PRODUCT" ],
+      [ 0, 15, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Acorelle kylm\u00e4vahaliuskat vartalolle 20 kpl",
+    "entities": [
+      [ 37, 43, "SIZE/WEIGHT" ],
+      [ 9, 25, "PRODUCT" ],
+      [ 0, 8, "BRAND" ]
+    ]
+  },
+  {
+    "content": "SmartBuy Collection Silm\u00e4lasit Kaya A84",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 20, 30, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Puma PU0001S 006",
+    "entities": [ [ 0, 4, "BRAND" ] ]
+  },
+  {
+    "content": "Eric Maccoat Trenssi Takki Sininen Les Deux",
+    "entities": [
+      [ 8, 12, "PRODUCT" ],
+      [ 27, 34, "COLOR" ],
+      [ 35, 43, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Colette Knit Skirt Polvipituinen Hame Moniv\u00e4rinen/Kuvioitu Morris Lady",
+    "entities": [
+      [ 13, 18, "PRODUCT" ],
+      [ 33, 37, "PRODUCT" ],
+      [ 59, 70, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Dragon Alliance Aurinkolasit DR D1OTG BONUS 029",
+    "entities": [
+      [ 0, 15, "BRAND" ],
+      [ 16, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Giti GSR225 ( 245/70 R19.5 136/134M 16PR )",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 13, 40, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Apple-Cto Cto:Z0Y3 Mbp 16In Tb 2.4Ghz I9 32Gb 1Tb 4Gb-Silver Se Btop",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 54, 60, "COLOR" ],
+      [ 22, 53, "SIZE/WEIGHT" ],
+      [ 19, 22, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Guess Aurinkolasit GU 6947 06B",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 5, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Guess Aurinkolasit GU 6947 06B",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "\u00a0Essential Skinny Chi Housut Beige Tommy Hilfiger",
+    "entities": [
+      [ 34, 49, "BRAND" ],
+      [ 29, 34, "COLOR" ],
+      [ 22, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Gramicci - Gramicci Pants - Khaki - XL",
+    "entities": [
+      [ 0, 19, "BRAND" ],
+      [ 20, 25, "PRODUCT" ],
+      [ 36, 38, "SIZE/WEIGHT" ],
+      [ 27, 34, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Nicola Bikinit Vaaleanpunainen Molo",
+    "entities": [
+      [ 6, 14, "PRODUCT" ],
+      [ 14, 30, "COLOR" ],
+      [ 31, 35, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Ralph by Ralph Lauren Aurinkolasit RA5252 57497B",
+    "entities": [
+      [ 9, 21, "BRAND" ],
+      [ 21, 34, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Riley sweater",
+    "entities": [
+      [ 6, 13, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Oakley Aurinkolasit OO9271 FLAK 2.0 Asian Fit 927103",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 6, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Boss by Hugo Boss Silm\u00e4lasit BOSS 1075 2M4",
+    "entities": [
+      [ 8, 17, "BRAND" ],
+      [ 18, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Invicta Excursion Miesten kello 15315 Hopea/Ter\u00e4s\u00a049.5 mm",
+    "entities": [
+      [ 0, 17, "BRAND" ],
+      [ 18, 25, "GENDER" ],
+      [ 26, 31, "PRODUCT" ],
+      [ 38, 43, "COLOR" ],
+      [ 44, 49, "MATERIAL" ],
+      [ 50, 57, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Pusero Laura",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 12, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Hangable Cosmetic Black Toilettilaukut Musta PIPOL'S BAZAAR",
+    "entities": [
+      [ 17, 23, "COLOR" ],
+      [ 24, 38, "PRODUCT" ],
+      [ 38, 44, "COLOR" ],
+      [ 44, 59, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Timberland Silm\u00e4lasit TB1597 091",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 11, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Y3441-00 Shoes Boots Ankle Boots Ankle Boot - Flat Musta Rieker",
+    "entities": [
+      [ 9, 14, "PRODUCT" ],
+      [ 15, 20, "PRODUCT" ],
+      [ 51, 56, "COLOR" ],
+      [ 57, 63, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Flail Black Olkalaukku Laukku Musta Eastpak",
+    "entities": [
+      [ 5, 11, "COLOR" ],
+      [ 30, 35, "COLOR" ],
+      [ 36, 43, "BRAND" ],
+      [ 23, 29, "PRODUCT" ],
+      [ 12, 22, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "MyMagicWand Nubbed Attachment - Pink",
+    "entities": [
+      [ 32, 36, "COLOR" ],
+      [ 0, 11, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Persol Silm\u00e4lasit PO3227V 24",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Hammer Tassel Necklace",
+    "entities": [
+      [ 14, 22, "PRODUCT" ],
+      [ 0, 13, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Karl Lagerfeld Silm\u00e4lasit KL 852 033",
+    "entities": [
+      [ 0, 15, "BRAND" ],
+      [ 15, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Pusero Bonn",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 11, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Nokian Hakkapeliitta R2 SUV ( 275/50 R20 113R XL, Pohjoismainen kitkarengas )",
+    "entities": [
+      [ 29, 47, "SIZE/WEIGHT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Nahkatakki Naf Naf\u00a0 CHAO",
+    "entities": [
+      [ 5, 10, "PRODUCT" ],
+      [ 0, 5, "MATERIAL" ],
+      [ 11, 24, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Pressed Mineral Foundation, 8g, Rose Beige",
+    "entities": [
+      [ 0, 26, "BRAND" ],
+      [ 28, 30, "SIZE/WEIGHT" ],
+      [ 32, 42, "COLOR" ]
+    ]
+  },
+  {
+    "content": "McQ Silm\u00e4lasit MCQ0027 K1I",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 4, 14, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Barry-Stretch Nylon Vuorillinen Takki Topattu Takki Musta J. Lindeberg",
+    "entities": [
+      [ 13, 19, "MATERIAL" ],
+      [ 32, 37, "PRODUCT" ],
+      [ 52, 57, "COLOR" ],
+      [ 58, 70, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Nike Aurinkolasit ESSENTIAL CHASER M EV0998 207",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 4, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "adidas Originals - Gazelle - Musta - US 5",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 29, 34, "COLOR" ],
+      [ 37, 41, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Robo Winter Paisley Paita Rento Casual Harmaa Matinique",
+    "entities": [
+      [ 39, 45, "COLOR" ],
+      [ 0, 19, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Graphic T-Shirt T-shirts Short-sleeved Sininen Fred Perry",
+    "entities": [
+      [ 8, 15, "PRODUCT" ],
+      [ 16, 24, "PRODUCT" ],
+      [ 39, 46, "COLOR" ],
+      [ 47, 57, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Guess Silm\u00e4lasit GU 3052 075",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Rolex Datejust 36 Naisten kello 126234-0014 Hopea/Ter\u00e4s 36 mm",
+    "entities": [
+      [ 26, 31, "PRODUCT" ],
+      [ 44, 49, "COLOR" ],
+      [ 50, 55, "MATERIAL" ],
+      [ 56, 61, "SIZE/WEIGHT" ],
+      [ 18, 25, "GENDER" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "TODS Silm\u00e4lasit TO05038 047",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 4, 15, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "\u00a0Ilyna Blouses Short-sleeved Valkoinen BOSS",
+    "entities": [
+      [ 7, 15, "PRODUCT" ],
+      [ 29, 38, "COLOR" ],
+      [ 39, 43, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Goodride Radial SL369 A/T ( LT315/70 R17 121/118R 10PR )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 27, 54, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Paita Bonnie",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 6, 12, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Cormack Matalavartiset Sneakerit Tennarit Valkoinen Lyle & Scott",
+    "entities": [
+      [ 52, 64, "BRAND" ],
+      [ 41, 51, "COLOR" ],
+      [ 33, 41, "PRODUCT" ],
+      [ 23, 33, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Nike Silm\u00e4lasit 5015 259",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 5, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Pressed Mineral Foundation, 8g, Soft Beige",
+    "entities": [
+      [ 0, 26, "BRAND" ],
+      [ 28, 30, "SIZE/WEIGHT" ],
+      [ 37, 42, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t TUK\u00a0 POINTED CREEPERS",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 19, 28, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Kumho PorTran KC53 ( 195 R15C 106/104R 8PR )",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 20, 42, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Jaguar Silm\u00e4lasit\u00a0",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Yokohama BluEarth-Van RY55 ( 205/70 R15C 106/104S BluEarth )",
+    "entities": [
+      [ 29, 49, "SIZE/WEIGHT" ],
+      [ 0, 8, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Ermenegildo Zegna Aurinkolasit EZ0137 02E",
+    "entities": [
+      [ 0, 17, "BRAND" ],
+      [ 18, 30, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Ermenegildo Zegna Aurinkolasit EZ0136 52N",
+    "entities": [
+      [ 0, 17, "BRAND" ],
+      [ 18, 30, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Ray-Ban Silm\u00e4lasit Tech RX8901 Carbon Fibre 5263",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 8, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Healing Moisture Kukui Nut Conditioner, 250ml",
+    "entities": [
+      [ 23, 26, "MATERIAL" ],
+      [ 27, 38, "PRODUCT" ],
+      [ 40, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Iris slim joulut\u00e4hti 80 cm hopea-kulta",
+    "entities": [
+      [ 10, 20, "PRODUCT" ],
+      [ 21, 26, "SIZE/WEIGHT" ],
+      [ 27, 38, "COLOR" ]
+    ]
+  },
+  {
+    "content": "L/S Batwing Tee T-shirts Long-sleeved T-shirts Punainen Levi's",
+    "entities": [
+      [ 16, 24, "PRODUCT" ],
+      [ 25, 46, "PRODUCT" ],
+      [ 47, 55, "COLOR" ],
+      [ 56, 62, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Cotton Body T-shirts & Tops Bodies Oranssi Adidas Originals",
+    "entities": [
+      [ 0, 6, "MATERIAL" ],
+      [ 12, 27, "PRODUCT" ],
+      [ 35, 42, "COLOR" ],
+      [ 43, 59, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Bunaken p\u00f6yt\u00e4liina Vihre\u00e4 - Vaaleanpunainen",
+    "entities": [
+      [ 8, 18, "PRODUCT" ],
+      [ 19, 43, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Lastenkeng\u00e4t EMU WALLABY MINI METALIC",
+    "entities": [
+      [ 13, 16, "BRAND" ],
+      [ 30, 37, "COLOR" ],
+      [ 25, 29, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Nicole Miller Silm\u00e4lasit NM COLUMBUS C02",
+    "entities": [
+      [ 0, 13, "BRAND" ],
+      [ 14, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Healing Moisture Kukui Nut Conditioner, 750ml",
+    "entities": [
+      [ 23, 26, "MATERIAL" ],
+      [ 27, 38, "PRODUCT" ],
+      [ 40, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Liza Accessories Headwear Hats Vihre\u00e4 Baum Und Pferdgarten",
+    "entities": [
+      [ 17, 25, "PRODUCT" ],
+      [ 26, 30, "PRODUCT" ],
+      [ 31, 37, "COLOR" ],
+      [ 38, 58, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Sc-Marica T-shirts & Tops Long-sleeved Ruskea Soyaconcept",
+    "entities": [
+      [ 10, 25, "PRODUCT" ],
+      [ 39, 45, "COLOR" ],
+      [ 46, 57, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Stockholm veitsi 23 cm",
+    "entities": [
+      [ 10, 16, "PRODUCT" ],
+      [ 17, 22, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "3 paria sukkia, joissa liukuestepohjat ja el\u00e4inkuviointi",
+    "entities": [ [ 8, 14, "PRODUCT" ] ]
+  },
+  {
+    "content": "Matador MP62 All Weather Evo ( 155/65 R14 75T )",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 12, "PRODUCT" ],
+      [ 31, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Hiker Next Generation Women'S Drymaxx Shell Jacket Outerwear Sport Jackets Musta Halti",
+    "entities": [
+      [ 22, 29, "GENDER" ],
+      [ 44, 50, "PRODUCT" ],
+      [ 75, 80, "COLOR" ],
+      [ 81, 86, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Healing Style Curl Define 125g",
+    "entities": [
+      [ 26, 30, "SIZE/WEIGHT" ],
+      [ 0, 13, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Slim-farkut Diesel THOMMER",
+    "entities": [
+      [ 0, 11, "PRODUCT" ],
+      [ 12, 18, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Isla tank",
+    "entities": [ [ 0, 9, "PRODUCT" ] ]
+  },
+  {
+    "content": "Miu Miu Silm\u00e4lasit MU05RV 1AB1O1",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Asta Povi Scarf Seasonal Col. Huivi Keltainen Becks\u00f6ndergaard",
+    "entities": [
+      [ 10, 15, "PRODUCT" ],
+      [ 30, 35, "PRODUCT" ],
+      [ 36, 45, "COLOR" ],
+      [ 46, 61, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Healing Color Care Color-Preserving Shampoo 50ml",
+    "entities": [
+      [ 36, 43, "PRODUCT" ],
+      [ 44, 48, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Oakley Aurinkolasit OO9154 HALF JACKET 2.0 XL Polarized 915467",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 19, "PRODUCT" ],
+      [ 27, 38, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Healing Color Care Color-Preserving Shampoo, 1000ml",
+    "entities": [
+      [ 36, 43, "PRODUCT" ],
+      [ 45, 51, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Pelican Hat Accessories Headwear Hats Harmaa SWAYS",
+    "entities": [
+      [ 33, 37, "PRODUCT" ],
+      [ 38, 44, "COLOR" ],
+      [ 45, 50, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Oakley Silm\u00e4lasit OX5040 WINGSPAN 504001",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Viking ProTech NewGen ( 245/45 R19 102Y XL )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 23, 42, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Matador MP92 Sibir Snow ( 245/70 R16 107T, SUV )",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 26, 40, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "BRIO -labyrintti -puinen",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 6, 16, "PRODUCT" ],
+      [ 18, 24, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Matador MP92 Sibir Snow ( 205/60 R16 92H )",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 26, 39, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t adidas X_PLR",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 13, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Chino-housut / Porkkanahousut Eleven Paris CHARLIE",
+    "entities": [
+      [ 0, 12, "PRODUCT" ],
+      [ 15, 29, "PRODUCT" ],
+      [ 30, 42, "BRAND" ]
+    ]
+  },
+  {
+    "content": "D1. Bc Print Slim Bd Paita Bisnes Sininen GANT",
+    "entities": [
+      [ 21, 26, "PRODUCT" ],
+      [ 34, 41, "COLOR" ],
+      [ 42, 46, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Healing Color Care Color-Preserving Shampoo, 300ml",
+    "entities": [
+      [ 19, 43, "PRODUCT" ],
+      [ 45, 50, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Tytt\u00f6jen sandaalit GBB COCORIKOO",
+    "entities": [
+      [ 0, 8, "GENDER" ],
+      [ 9, 18, "PRODUCT" ],
+      [ 19, 22, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Healing Color Care Color-Preserving Shampoo, 750ml",
+    "entities": [
+      [ 19, 43, "PRODUCT" ],
+      [ 45, 50, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Polaroid PLD D334 086",
+    "entities": [ [ 0, 8, "BRAND" ] ]
+  },
+  {
+    "content": "Nike S\u00e4\u00e4risuojat Mercurial Lite - Valkoinen/Sininen/Musta",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 5, 31, "PRODUCT" ],
+      [ 34, 57, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Maxxis Vansmart A/S AL2 ( 235/65 R16C 115/113T )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 26, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Guess Silm\u00e4lasit GU 2667 083",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Hipster Lingerie Panties Hipsters/boyshorts/brazilian Harmaa Calvin Klein",
+    "entities": [
+      [ 8, 16, "PRODUCT" ],
+      [ 17, 24, "PRODUCT" ],
+      [ 54, 60, "COLOR" ],
+      [ 61, 73, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Baloo - Bodystocking Bodies Long-sleeved Vihre\u00e4 Hust & Claire",
+    "entities": [
+      [ 41, 47, "COLOR" ],
+      [ 48, 61, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Etro BORCHIE",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 11, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Wiley X Aurinkolasit Compass CCCMP01",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Peacock Single Earring Left / Gold Accessories Jewellery Earrings Studs Kulta Julie Sandlau",
+    "entities": [
+      [ 15, 22, "PRODUCT" ],
+      [ 47, 56, "PRODUCT" ],
+      [ 57, 65, "PRODUCT" ],
+      [ 72, 77, "COLOR" ],
+      [ 78, 91, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Diesel Aurinkolasit DL0253 52N",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Vickycr Shirt Pitk\u00e4hihainen Paita Valkoinen Cream",
+    "entities": [
+      [ 28, 33, "PRODUCT" ],
+      [ 34, 43, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Healing Color Care Color-Preserving Conditioner 50ml",
+    "entities": [
+      [ 36, 47, "PRODUCT" ],
+      [ 48, 52, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Polaroid Aurinkolasit A8418 R1H",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Healing Color Care Color-Preserving Conditioner, 1000ml",
+    "entities": [
+      [ 36, 47, "PRODUCT" ],
+      [ 49, 55, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Goodride Radial SL369 A/T ( 225/70 R15 100T )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 28, 42, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Fendi Silm\u00e4lasit FF M0005 SCL",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "6219 - Star Napoli Normal Bleiseri Puvun Takki Harmaa SAND",
+    "entities": [
+      [ 26, 34, "PRODUCT" ],
+      [ 35, 46, "PRODUCT" ],
+      [ 47, 53, "COLOR" ],
+      [ 54, 58, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Blouses Woven Pitk\u00e4hihainen Pusero Paita Valkoinen Esprit Collection",
+    "entities": [
+      [ 0, 7, "PRODUCT" ],
+      [ 28, 40, "PRODUCT" ],
+      [ 41, 50, "COLOR" ],
+      [ 51, 57, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Dress Long Sleeve Polvipituinen Mekko Oranssi Noa Noa",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 32, 37, "PRODUCT" ],
+      [ 38, 45, "COLOR" ],
+      [ 46, 53, "BRAND" ]
+    ]
+  },
+  {
+    "content": "got2b Twisted Anti Frizz Styling Spray 200 ml",
+    "entities": [
+      [ 25, 38, "PRODUCT" ],
+      [ 39, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Croon Silm\u00e4lasit Leesbril Madonna Havana Red Transparent",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 16, "PRODUCT" ],
+      [ 41, 56, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Alliance Farm Pro-70 ( 520/70 R30 145A8 TL kaksoistunnus\u00a0 145B )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 23, 42, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Poikien sandaalit Andr\u00e9\u00a0 MILAN",
+    "entities": [
+      [ 8, 17, "PRODUCT" ],
+      [ 18, 23, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Paradise Swimsuit Uimapuku Uima-asut Moniv\u00e4rinen/Kuvioitu Notes Du Nord",
+    "entities": [
+      [ 9, 17, "PRODUCT" ],
+      [ 18, 26, "PRODUCT" ],
+      [ 27, 36, "PRODUCT" ],
+      [ 37, 48, "COLOR" ],
+      [ 49, 57, "COLOR" ],
+      [ 58, 71, "BRAND" ]
+    ]
+  },
+  {
+    "content": "AJ-p\u00f6yt\u00e4lamppu Musta",
+    "entities": [
+      [ 3, 14, "PRODUCT" ],
+      [ 15, 20, "COLOR" ]
+    ]
+  },
+  {
+    "content": "INTEX Swan Ride-On",
+    "entities": [ [ 0, 5, "BRAND" ] ]
+  },
+  {
+    "content": "Beyond Perf. Foundation + Concealer, 6,5 Buttermilk",
+    "entities": [
+      [ 13, 35, "PRODUCT" ],
+      [ 41, 51, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Guess GU7459 01B",
+    "entities": [ [ 0, 6, "BRAND" ] ]
+  },
+  {
+    "content": "Can'T Stop Won'T Stop Contour Concealer Peitevoide Meikki NYX PROFESSIONAL MAKEUP",
+    "entities": [
+      [ 22, 39, "PRODUCT" ],
+      [ 40, 57, "PRODUCT" ],
+      [ 58, 81, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Paita objSifka Top 107",
+    "entities": [ [ 0, 5, "PRODUCT" ] ]
+  },
+  {
+    "content": "Korkokeng\u00e4t Rupert Sanderson\u00a0 CLIPPER",
+    "entities": [
+      [ 0, 11, "PRODUCT" ],
+      [ 12, 28, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Ray-Ban Silm\u00e4lasit RB2132F New Wayfarer Asian Fit Polarized 901/58",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Bvlgari Aurinkolasit BV6104 20144Z",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Isabel Alushousut Brief Tangat Ruskea Love Stories",
+    "entities": [
+      [ 7, 17, "PRODUCT" ],
+      [ 18, 30, "PRODUCT" ],
+      [ 31, 37, "COLOR" ],
+      [ 38, 50, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Cr7 Boys Trunk 2-Pack Alushousut Musta CR7",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 22, 32, "PRODUCT" ],
+      [ 33, 38, "COLOR" ],
+      [ 39, 42, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Seha Agro 10 ( 420/70 R24 130A8 TL )",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 15, 33, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Carlisle Turf Saver ( 18x8.50 -8 74A4 4PR TL NHS )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 22, 43, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Ippon Vintage\u00a0 BEACH PRINCE",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 20, "BRAND" ]
+    ]
+  },
+  {
+    "content": "High Lengths Mascara, Black",
+    "entities": [
+      [ 13, 20, "PRODUCT" ],
+      [ 22, 27, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Self Sun Face Tinted Lotion 50ml",
+    "entities": [
+      [ 9, 27, "PRODUCT" ],
+      [ 28, 32, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Cargo Loose Suoralahkeiset Housut Vihre\u00e4 Please Jeans",
+    "entities": [
+      [ 27, 33, "PRODUCT" ],
+      [ 34, 40, "COLOR" ],
+      [ 41, 53, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Rally Sneakers Matalavartiset Sneakerit Tennarit Musta FitFlop",
+    "entities": [
+      [ 6, 14, "PRODUCT" ],
+      [ 40, 48, "PRODUCT" ],
+      [ 49, 54, "COLOR" ],
+      [ 55, 62, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Ceat Lift Pro ( 460/70 R24 159A8 TL kaksoistunnus\u00a0 159B, T.R.A. I3 )",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 16, 34, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Farkut Rex",
+    "entities": [ [ 0, 6, "PRODUCT" ] ]
+  },
+  {
+    "content": "IsaDora Double Ended Eye Shadow Applicator",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 21, 42, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Day Dream On Messinki",
+    "entities": [ [ 13, 21, "MATERIAL" ] ]
+  },
+  {
+    "content": "Ceat Farmax R1 ( 15.5 -38 137A6 10PR TT )",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 17, 38, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Radley Silm\u00e4lasit RDO NATALLIA 003",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Vredestein V 61 ( 250/65 -14.5 121A8 12PR TL )",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 18, 43, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Superdefense Moisturizer SPF20 50ml (Very Dry/Comb)",
+    "entities": [
+      [ 13, 24, "PRODUCT" ],
+      [ 31, 35, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Quickliner For Eyes, Blue Grey",
+    "entities": [
+      [ 0, 19, "PRODUCT" ],
+      [ 21, 30, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Vogue Eyewear Silm\u00e4lasit VO4094 5138",
+    "entities": [
+      [ 0, 13, "BRAND" ],
+      [ 14, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Tennarit UA Classic Slip-On",
+    "entities": [ [ 0, 8, "PRODUCT" ] ]
+  },
+  {
+    "content": "Dolce & Gabbana Aurinkolasit DG2213 02/73",
+    "entities": [
+      [ 0, 15, "BRAND" ],
+      [ 16, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Viceiw Blazer Bleiseri Puvun Takki Ruskea InWear",
+    "entities": [
+      [ 7, 13, "PRODUCT" ],
+      [ 14, 22, "PRODUCT" ],
+      [ 23, 34, "PRODUCT" ],
+      [ 35, 41, "COLOR" ],
+      [ 42, 48, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Washed Linen Pussilakana Tuplapeittoon, Navy Blue",
+    "entities": [
+      [ 13, 38, "PRODUCT" ],
+      [ 40, 49, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Starmaxx TR-110 ( 200/70 R16 94A8 TL )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 18, 35, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Kate Spade Aurinkolasit Kahli/S WR7/HA",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 11, 23, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Lompakot Le Tanneur\u00a0 MARTIN",
+    "entities": [
+      [ 0, 8, "PRODUCT" ],
+      [ 9, 19, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Creative Recreation\u00a0 CESARIO LO XVI",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 26, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Volume Million Lashes Fatale Mascara Ripsiv\u00e4ri Maskara Meikki Musta L'Or\u00e9al Paris",
+    "entities": [
+      [ 29, 36, "PRODUCT" ],
+      [ 37, 46, "PRODUCT" ],
+      [ 47, 54, "PRODUCT" ],
+      [ 62, 67, "COLOR" ],
+      [ 68, 81, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Elevated Corporate Cap Accessories Headwear Caps Sininen Tommy Hilfiger",
+    "entities": [
+      [ 35, 48, "PRODUCT" ],
+      [ 49, 56, "COLOR" ],
+      [ 57, 71, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tiger Of Sweden Jeans Jet C Housut Black",
+    "entities": [
+      [ 0, 15, "BRAND" ],
+      [ 16, 21, "PRODUCT" ],
+      [ 28, 34, "PRODUCT" ],
+      [ 35, 40, "COLOR" ]
+    ]
+  },
+  {
+    "content": "UA Classic Slip-On -tennarit",
+    "entities": [ [ 20, 28, "PRODUCT" ] ]
+  },
+  {
+    "content": "Vredestein Traxion Versa ( 340/80 R18 143A8 TL )",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 27, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Lottecr Plain Twill - Coco Fit Skinny Farkut Cream",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 38, 44, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Lastenkeng\u00e4t Le Coq Sportif  COURTSET GS",
+    "entities": [
+      [ 0, 12, "PRODUCT" ],
+      [ 29, 40, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Perfect Cleanser Beauty WOMEN Skin Care Face Cleansers Milk Cleanser Nude OSKIA",
+    "entities": [
+      [ 24, 29, "GENDER" ],
+      [ 8, 16, "PRODUCT" ],
+      [ 40, 54, "PRODUCT" ],
+      [ 74, 79, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Adidas Originals Aurinkolasit AOM007 009.120",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 17, 29, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Lyhythihainen poolopaita Lacoste  PH5462 SLIM",
+    "entities": [
+      [ 25, 32, "BRAND" ],
+      [ 14, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Colonia Essenza, After Shave Balm 100ml",
+    "entities": [
+      [ 17, 33, "BRAND" ],
+      [ 34, 39, "SIZE/WEIGHT" ],
+      [ 0, 15, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Kaappi, Valkoinen",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 8, 17, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Paita Irene",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 6, 11, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Marc O'Polo  CATANIA",
+    "entities": [
+      [ 7, 18, "BRAND" ],
+      [ 0, 6, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Smith Aurinkolasit LOWDOWN STEEL 003/1C",
+    "entities": [
+      [ 6, 18, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Kelis pu trousers",
+    "entities": [
+      [ 9, 17, "PRODUCT" ],
+      [ 0, 5, "BRAND" ],
+      [ 6, 8, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Supermicro X10Drh-Ct-O Xeon5 C612 Eatx Vga 2X10Gbe Sas3 Ddr4 Ipmi Reta In Cpnt",
+    "entities": [ [ 0, 10, "BRAND" ] ]
+  },
+  {
+    "content": "Pusero jdyNora Life S/S Anglaise Top",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 20, 23, "SIZE/WEIGHT" ],
+      [ 33, 36, "PRODUCT" ],
+      [ 7, 14, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Lightly Lined Demi Lingerie Bras & Tops Padded Bras Kermanv\u00e4rinen Calvin Klein",
+    "entities": [
+      [ 28, 39, "PRODUCT" ],
+      [ 40, 51, "PRODUCT" ],
+      [ 52, 65, "COLOR" ],
+      [ 66, 78, "BRAND" ]
+    ]
+  },
+  {
+    "content": "UVEX Aurinkolasit BLAZE III 5320462210",
+    "entities": [
+      [ 5, 17, "PRODUCT" ],
+      [ 0, 4, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Vicky Top T-shirts & Tops Sleeveless Valkoinen Kari Traa",
+    "entities": [
+      [ 10, 25, "PRODUCT" ],
+      [ 37, 46, "COLOR" ],
+      [ 47, 56, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Pusero Elisa Basic",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 12, "BRAND" ]
+    ]
+  },
+  {
+    "content": "SmartBuy Collection Silm\u00e4lasit Caroline CP165D",
+    "entities": [
+      [ 20, 30, "PRODUCT" ],
+      [ 0, 19, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Colonia Essenza, After Shave Lotion 100ml",
+    "entities": [
+      [ 0, 15, "BRAND" ],
+      [ 17, 35, "PRODUCT" ],
+      [ 36, 41, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Julbo Aurinkolasit STARWIND J75431147",
+    "entities": [
+      [ 6, 18, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Lastenkeng\u00e4t Gola  QUOTA II",
+    "entities": [
+      [ 0, 12, "PRODUCT" ],
+      [ 13, 17, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Balmain Aurinkolasit BL 2114 C03",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Korkokeng\u00e4t Emma Go  JOELLE",
+    "entities": [
+      [ 0, 11, "PRODUCT" ],
+      [ 12, 19, "BRAND" ]
+    ]
+  },
+  {
+    "content": "T-Shirt Ss T-shirts & Tops Short-sleeved Musta Rosemunde",
+    "entities": [
+      [ 0, 7, "PRODUCT" ],
+      [ 11, 26, "PRODUCT" ],
+      [ 41, 46, "COLOR" ],
+      [ 47, 56, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t New Balance  373",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 18, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Guess Aurinkolasit GU 7646 10G",
+    "entities": [
+      [ 6, 18, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Paita Juel 146",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 6, 10, "BRAND" ],
+      [ 11, 14, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Fayy Chelsea Shoes Chelsea Boots Ruskea GANT",
+    "entities": [
+      [ 13, 18, "PRODUCT" ],
+      [ 27, 32, "PRODUCT" ],
+      [ 33, 39, "COLOR" ],
+      [ 40, 44, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Moma  CUSNA NERO",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 11, "BRAND" ],
+      [ 19, 23, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Dana Buchman Silm\u00e4lasit VIVIAN Golden Brown",
+    "entities": [
+      [ 13, 23, "PRODUCT" ],
+      [ 31, 43, "COLOR" ],
+      [ 0, 12, "BRAND" ],
+      [ 24, 30, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Paita jdyRosalina L/S Shirt Wvn",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 18, 21, "SIZE/WEIGHT" ],
+      [ 22, 27, "PRODUCT" ],
+      [ 6, 17, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Paita Hepburn IW50",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 6, 13, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Zac Posen Aurinkolasit LUCIANA Black",
+    "entities": [
+      [ 10, 22, "PRODUCT" ],
+      [ 31, 36, "COLOR" ],
+      [ 0, 9, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Longchamp Aurinkolasit LO606S 429",
+    "entities": [
+      [ 10, 22, "PRODUCT" ],
+      [ 0, 9, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Vogue Eyewear Silm\u00e4lasit VO5053 Ligh t& Shine W44",
+    "entities": [
+      [ 14, 24, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Sava Trenta 2 ( 195/70 R15C 104/102R 8PR )",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 16, 39, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Channi Mekko Molo",
+    "entities": [
+      [ 7, 12, "PRODUCT" ],
+      [ 0, 6, "BRAND" ],
+      [ 13, 17, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Gucci Aurinkolasit GG0535S 005",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "SmartBuy Collection Aurinkolasit Barrow Street JST-43 M02",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 20, 32, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Polaroid Aurinkolasit P8302 Polarized KIH/JB",
+    "entities": [
+      [ 9, 21, "PRODUCT" ],
+      [ 0, 8, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Guess Aurinkolasit GU 7643 10C",
+    "entities": [
+      [ 6, 18, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "SmartBuy Collection Silm\u00e4lasit Metropolitan Avenue JSV-058 012",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 20, 30, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Adidas Originals Aurinkolasit AOM000 078.055",
+    "entities": [
+      [ 17, 29, "PRODUCT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Saint Laurent Silm\u00e4lasit SL 306 00",
+    "entities": [
+      [ 0, 13, "BRAND" ],
+      [ 14, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Stella McCartney Silm\u00e4lasit SC0218O 002",
+    "entities": [
+      [ 17, 27, "PRODUCT" ],
+      [ 0, 16, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Colonia Quercia, EdC 100ml",
+    "entities": [
+      [ 21, 26, "SIZE/WEIGHT" ],
+      [ 0, 15, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Yokohama BluEarth-Van RY55 ( 225/75 R16C 121/120R BluEarth )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 29, 49, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Silk Top Regular W/Rev Vintage Lace T-shirts & Tops Sleeveless Vihre\u00e4 Rosemunde",
+    "entities": [
+      [ 0, 4, "MATERIAL" ],
+      [ 36, 51, "PRODUCT" ],
+      [ 63, 69, "COLOR" ],
+      [ 70, 79, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Pusero carBlaire Life SS Teg Tee",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 22, 24, "SIZE/WEIGHT" ],
+      [ 7, 16, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Chloe Aurinkolasit CE 132S 261",
+    "entities": [
+      [ 6, 18, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "adidas Originals - Superstar - Valkoinen - US 5,5",
+    "entities": [
+      [ 31, 40, "COLOR" ],
+      [ 43, 49, "SIZE/WEIGHT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Sc-Erna Polvipituinen Hame Sininen Soyaconcept",
+    "entities": [
+      [ 27, 34, "COLOR" ],
+      [ 22, 26, "PRODUCT" ],
+      [ 35, 46, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Dana Buchman Silm\u00e4lasit Taren CARAMEL TORTOISE",
+    "entities": [
+      [ 13, 23, "PRODUCT" ],
+      [ 0, 12, "BRAND" ],
+      [ 30, 46, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Active Sports Woven Shorts B Shortsit Musta PUMA",
+    "entities": [
+      [ 20, 26, "PRODUCT" ],
+      [ 29, 37, "PRODUCT" ],
+      [ 38, 43, "COLOR" ],
+      [ 44, 48, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Renata Polvipituinen\u00a0Hame\u00a0Musta\u00a0Fall Winter Spring Summer",
+    "entities": [
+      [ 32, 57, "BRAND" ],
+      [ 21, 25, "PRODUCT" ],
+      [ 26, 31, "COLOR" ]
+    ]
+  },
+  {
+    "content": "\n  Salo M Technical\n  Polo Polos Short-sleeved Sininen Halti",
+    "entities": [
+      [ 47, 54, "COLOR" ],
+      [ 22, 26, "PRODUCT" ],
+      [ 3, 7, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tennarit ML850CD",
+    "entities": [ [ 0, 8, "PRODUCT" ] ]
+  },
+  {
+    "content": "G9 Orange Shiny",
+    "entities": [ [ 3, 9, "COLOR" ] ]
+  },
+  {
+    "content": "Diesel Aurinkolasit DL0076 90G",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Dotti Tyyny 50x50cm, Mix",
+    "entities": [
+      [ 6, 11, "PRODUCT" ],
+      [ 12, 19, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Jonak\u00a0 DIDLANEO",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 12, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Lyhyt mekko See U Soon\u00a0 SANTINE",
+    "entities": [
+      [ 6, 11, "PRODUCT" ],
+      [ 12, 22, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Dsquared2 Silm\u00e4lasit DQ5126 072",
+    "entities": [
+      [ 10, 20, "PRODUCT" ],
+      [ 0, 9, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Stussy - Basic Tee - Musta - M",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 15, 18, "PRODUCT" ],
+      [ 21, 26, "COLOR" ],
+      [ 29, 30, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Grisport\u00a0 Nero Dakar 10309D109G",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 15, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Vredestein AW ( 15.0/55 -17 134A8 TL )",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 16, 35, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Ryders Aurinkolasit TRAPPER R02502A",
+    "entities": [
+      [ 7, 19, "PRODUCT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Farah Silm\u00e4lasit FHO 1011 113",
+    "entities": [
+      [ 6, 16, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "F-7301 Korolliset Sandaalit Ruskea Wonders",
+    "entities": [
+      [ 28, 34, "COLOR" ],
+      [ 18, 27, "PRODUCT" ],
+      [ 35, 42, "BRAND" ]
+    ]
+  },
+  {
+    "content": "G4 PRO White mirror",
+    "entities": [
+      [ 7, 12, "COLOR" ],
+      [ 13, 19, "PRODUCT" ],
+      [ 0, 2, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tennarit\u00a0CTALYMSI",
+    "entities": [ [ 0, 8, "PRODUCT" ] ]
+  },
+  {
+    "content": "Sukat\u00a0Bamboo\u00a0Socks,\u00a05\u00a0paria",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 13, 18, "PRODUCT" ],
+      [ 6, 12, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Cazal\u00a0Silm\u00e4lasit\u00a04267\u00a0004",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "13294\u00a0Bags\u00a0Small\u00a0Shoulder\u00a0Bags\u00a0-\u00a0Crossbody\u00a0Bags\u00a0Kermanv\u00e4rinen\u00a0DEPECHE",
+    "entities": [
+      [ 11, 16, "SIZE/WEIGHT" ],
+      [ 48, 61, "COLOR" ],
+      [ 62, 69, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Madina\u00a0W\u00a0Tee\u00a0T-shirts\u00a0&\u00a0Tops\u00a0Short-sleeved\u00a0Musta\u00a08848\u00a0Altitude",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 43, 48, "COLOR" ],
+      [ 9, 12, "PRODUCT" ],
+      [ 13, 21, "PRODUCT" ],
+      [ 24, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Superdry\u00a0Aurinkolasit\u00a0SDS\u00a0YATOMI\u00a0006",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Burberry\u00a0Aurinkolasit\u00a0BE4181\u00a0300187",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Ray\u00a0Kattovalaisin,\u00a0Large,\u00a0Valkoinen",
+    "entities": [
+      [ 0, 17, "BRAND" ],
+      [ 19, 24, "SIZE/WEIGHT" ],
+      [ 26, 35, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Paradigm Aurinkolasit 19-30 Rose Gold",
+    "entities": [
+      [ 9, 21, "PRODUCT" ],
+      [ 0, 8, "BRAND" ],
+      [ 28, 37, "COLOR" ]
+    ]
+  },
+  {
+    "content": "General Tractor V.Ply ( 20.8 -38 151A6 10PR TT )",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 24, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Sola Dress Polvipituinen Mekko Kermanv\u00e4rinen\u00a0R\u00e9sum\u00e9",
+    "entities": [
+      [ 5, 10, "PRODUCT" ],
+      [ 25, 30, "PRODUCT" ],
+      [ 31, 44, "COLOR" ],
+      [ 45, 51, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Helix teekannu ruostumaton ter\u00e4s 1 l",
+    "entities": [
+      [ 6, 14, "PRODUCT" ],
+      [ 33, 36, "SIZE/WEIGHT" ],
+      [ 15, 32, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "False Lash Effect Velvet Volume Mascara, Black",
+    "entities": [
+      [ 32, 39, "PRODUCT" ],
+      [ 41, 46, "COLOR" ]
+    ]
+  },
+  {
+    "content": "False Lash Effect Velvet Volume Mascara, Black/Br",
+    "entities": [
+      [ 32, 39, "PRODUCT" ],
+      [ 41, 49, "COLOR" ]
+    ]
+  },
+  {
+    "content": "ROK Merino Gloves Musta L/XL",
+    "entities": [
+      [ 11, 17, "PRODUCT" ],
+      [ 18, 23, "COLOR" ],
+      [ 24, 28, "SIZE/WEIGHT" ],
+      [ 4, 10, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Diesel Silm\u00e4lasit DL5067 001",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Small Eye Shadow Beauty WOMEN Makeup Eyes Eyeshadow - Not Palettes Ruskea M.A.C.",
+    "entities": [
+      [ 0, 5, "SIZE/WEIGHT" ],
+      [ 74, 80, "BRAND" ],
+      [ 24, 29, "GENDER" ],
+      [ 6, 16, "PRODUCT" ],
+      [ 42, 51, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Victoria\u00a0 BERLIN PIEL",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 15, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Capsule Wool Tights Sukkahousut Valkoinen Mp Denmark",
+    "entities": [
+      [ 32, 41, "COLOR" ],
+      [ 13, 19, "PRODUCT" ],
+      [ 20, 31, "PRODUCT" ],
+      [ 8, 12, "MATERIAL" ],
+      [ 42, 52, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Norden 2 osainen veitsisetti",
+    "entities": [ [ 17, 28, "PRODUCT" ] ]
+  },
+  {
+    "content": "Marshmallow Hearts Bath & Shower Gel 500 ml",
+    "entities": [
+      [ 19, 36, "PRODUCT" ],
+      [ 37, 43, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Rodebjer Nevaeh Leve\u00e4lahkeiset Housut Ruskea RODEBJER",
+    "entities": [
+      [ 38, 44, "COLOR" ],
+      [ 31, 37, "PRODUCT" ],
+      [ 45, 53, "BRAND" ],
+      [ 0, 8, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Wet n Wild Angled Liner Brush",
+    "entities": [
+      [ 11, 29, "PRODUCT" ],
+      [ 0, 10, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Stella, Shw, Brief Bikinialaosa Sininen Zizzi",
+    "entities": [
+      [ 32, 39, "COLOR" ],
+      [ 13, 31, "PRODUCT" ],
+      [ 40, 45, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Mom Jean Jeans Mom Jeans Sininen Calvin Klein Jeans",
+    "entities": [
+      [ 33, 45, "BRAND" ],
+      [ 25, 32, "COLOR" ],
+      [ 9, 14, "PRODUCT" ],
+      [ 15, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "G15 Black Mat",
+    "entities": [ [ 4, 9, "COLOR" ] ]
+  },
+  {
+    "content": "Colby Sneaker Matalavartiset Sneakerit Tennarit Musta Michael Kors Shoes",
+    "entities": [
+      [ 39, 47, "PRODUCT" ],
+      [ 29, 38, "PRODUCT" ],
+      [ 48, 53, "COLOR" ],
+      [ 54, 66, "BRAND" ],
+      [ 67, 72, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "D-Bazer Farkut Sininen Diesel Men",
+    "entities": [
+      [ 23, 29, "BRAND" ],
+      [ 30, 33, "GENDER" ],
+      [ 15, 22, "COLOR" ],
+      [ 8, 14, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Lecco 80 T-shirts Short-sleeved Valkoinen BOSS",
+    "entities": [
+      [ 32, 41, "COLOR" ],
+      [ 9, 17, "PRODUCT" ],
+      [ 42, 46, "BRAND" ]
+    ]
+  },
+  {
+    "content": "SENOA Style S\u00e4hk\u00f6grilli jalustalla",
+    "entities": [ [ 12, 23, "PRODUCT" ] ]
+  },
+  {
+    "content": "Tommy Girl Neon Brights, EdT 50ml",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 29, 33, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Mini Foodprocessor 0,95 litraa Punainen",
+    "entities": [
+      [ 5, 18, "PRODUCT" ],
+      [ 19, 30, "SIZE/WEIGHT" ],
+      [ 31, 39, "COLOR" ]
+    ]
+  },
+  {
+    "content": "SP700+ Maidonvaahdotin, jossa 13 Ohjelmaa",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 22, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Aromatics Elixir, Perfume Spray 100ml",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 18, 31, "PRODUCT" ],
+      [ 32, 37, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Ozka Agro 10 Traction ( 480/70 R30 141A8 TL )",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 24, 43, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "G3 Smaragd",
+    "entities": [ [ 0, 10, "BRAND" ] ]
+  },
+  {
+    "content": "Clara Velvet Skirt Polvipituinen Hame Oranssi Just Female",
+    "entities": [
+      [ 38, 45, "COLOR" ],
+      [ 13, 18, "PRODUCT" ],
+      [ 33, 37, "PRODUCT" ],
+      [ 19, 32, "SIZE/WEIGHT" ],
+      [ 46, 57, "BRAND" ],
+      [ 0, 12, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Leiv\u00e4npaahdin Cube, 2 viipaleelle",
+    "entities": [
+      [ 20, 33, "SIZE/WEIGHT" ],
+      [ 0, 18, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Bkt Tr-135 ( 12.4 -36 127A6 8Pr Tt )",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 13, 33, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "G2 Cuba Libre",
+    "entities": [ [ 0, 13, "BRAND" ] ]
+  },
+  {
+    "content": "Aromatics Elixir, Perfume Spray 10ml",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 18, 31, "PRODUCT" ],
+      [ 32, 36, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Korkokeng\u00e4t Etro  3074\u00a0",
+    "entities": [
+      [ 0, 11, "PRODUCT" ],
+      [ 12, 16, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Sandaalit Pikolinos  ALGAR W0X",
+    "entities": [
+      [ 0, 9, "PRODUCT" ],
+      [ 10, 19, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Les Trop\u00e9ziennes par M Belarbi  AMELIE",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 23, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Everlast  EVL SHADOW MID",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 15, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Farah Aurinkolasit FHS 5015 001",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Ceat Farmax R85 ( 380/85 R34 137A8 TL kaksoistunnus  137B )",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 18, 36, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Diesel Silm\u00e4lasit DL5050 B05",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Gi2 DeJaVu Angel Violet",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 17, 23, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Nonogarden T-shirts & Tops Short-sleeved Sininen American Vintage",
+    "entities": [
+      [ 41, 48, "COLOR" ],
+      [ 11, 26, "PRODUCT" ],
+      [ 49, 65, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Crewneck T-Shirt T-shirts Short-sleeved Valkoinen Champion",
+    "entities": [
+      [ 40, 49, "COLOR" ],
+      [ 9, 16, "PRODUCT" ],
+      [ 17, 25, "PRODUCT" ],
+      [ 50, 58, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Classic Chino Suoralahkeiset Housut Vaaleanpunainen GANT",
+    "entities": [
+      [ 52, 56, "BRAND" ],
+      [ 36, 51, "COLOR" ],
+      [ 29, 35, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "All About Shadow Single, Purple Pumps Beauty WOMEN Makeup Eyes Eyeshadow - Not Palettes Liila Clinique",
+    "entities": [
+      [ 94, 102, "BRAND" ],
+      [ 45, 50, "GENDER" ],
+      [ 63, 72, "PRODUCT" ],
+      [ 88, 93, "COLOR" ]
+    ]
+  },
+  {
+    "content": "G12 Titan Polarized",
+    "entities": [ [ 0, 9, "BRAND" ] ]
+  },
+  {
+    "content": "Mitas TS06 ( 6.50/80 -15 94A8 6PR TT kaksoistunnus  82A8 )",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 13, 35, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Scoop Teepurkki Mittalusikalla",
+    "entities": [
+      [ 6, 15, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Lyhythihainen t-paita adidas  TREFOIL T-SHIRT",
+    "entities": [
+      [ 14, 21, "PRODUCT" ],
+      [ 38, 45, "PRODUCT" ],
+      [ 22, 28, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Wool Slipper Infant Aamutossut Sis\u00e4keng\u00e4t Harmaa Hummel",
+    "entities": [
+      [ 0, 4, "MATERIAL" ],
+      [ 5, 12, "PRODUCT" ],
+      [ 20, 30, "PRODUCT" ],
+      [ 31, 41, "PRODUCT" ],
+      [ 42, 48, "COLOR" ],
+      [ 49, 55, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Olkalaukut Desigual  MEX KIEV MINI",
+    "entities": [
+      [ 11, 19, "BRAND" ],
+      [ 0, 10, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Mitas FL08 ( 18x7.00 -8 121A5 14PR TT NHS )",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 13, 36, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Mid Rise True Skinny Jeans Skinny Farkut Sininen GAP",
+    "entities": [
+      [ 41, 48, "COLOR" ],
+      [ 49, 52, "BRAND" ],
+      [ 27, 40, "PRODUCT" ],
+      [ 14, 26, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Mets\u00e4st\u00e4j\u00e4n Sukat 37-39",
+    "entities": [
+      [ 12, 17, "PRODUCT" ],
+      [ 18, 23, "SIZE/WEIGHT" ],
+      [ 0, 11, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Aromatics Elixir, Perfume Spray 25ml",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 18, 31, "PRODUCT" ],
+      [ 32, 36, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Bisgaard Jacob Tennarit Sneakerit Keng\u00e4t Vihre\u00e4 Bisgaard",
+    "entities": [
+      [ 15, 23, "PRODUCT" ],
+      [ 34, 40, "PRODUCT" ],
+      [ 41, 47, "COLOR" ],
+      [ 0, 8, "BRAND" ]
+    ]
+  },
+  {
+    "content": "GI Slow Juice new horizontal",
+    "entities": [ [ 0, 28, "BRAND" ] ]
+  },
+  {
+    "content": "Bvlgari Aurinkolasit BV5047Q 202273",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": " Le Klint 6 Varjostin 21 cm, Muovi",
+    "entities": [
+      [ 1, 9, "BRAND" ],
+      [ 22, 27, "SIZE/WEIGHT" ],
+      [ 29, 34, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "General Tractor V.Ply ( 14.9 -28 137A6 12PR TT )",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 24, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Diesel Silm\u00e4lasit DL5045 090",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Clubman Classic Vanilla After Shave 177 ml",
+    "entities": [
+      [ 36, 42, "SIZE/WEIGHT" ],
+      [ 24, 35, "PRODUCT" ],
+      [ 0, 7, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Cordoba Rug 160x230 cm, Ivory",
+    "entities": [
+      [ 8, 11, "PRODUCT" ],
+      [ 12, 22, "SIZE/WEIGHT" ],
+      [ 0, 7, "BRAND" ],
+      [ 24, 29, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Refine Tyynynp\u00e4\u00e4llinen Raid",
+    "entities": [
+      [ 7, 22, "PRODUCT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "BKT Maglift LIP ( 15x4.50 -8 109A5 TL )",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 18, 36, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Lyhythihainen t-paita Gant  LE MANS BLOCK",
+    "entities": [
+      [ 14, 21, "PRODUCT" ],
+      [ 22, 26, "BRAND" ],
+      [ 31, 35, "GENDER" ]
+    ]
+  },
+  {
+    "content": "Day Paris Bag Bags Small Shoulder Bags - Crossbody Bags Musta DAY Et",
+    "entities": [
+      [ 56, 61, "COLOR" ],
+      [ 0, 9, "BRAND" ],
+      [ 10, 13, "PRODUCT" ],
+      [ 14, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Komfort XXL Kolgrillsvagn",
+    "entities": [ [ 0, 25, "BRAND" ] ]
+  },
+  {
+    "content": "Jane Top T-shirts & Tops Short-sleeved Valkoinen Ida Sj\u00f6stedt",
+    "entities": [
+      [ 9, 17, "PRODUCT" ],
+      [ 20, 24, "PRODUCT" ],
+      [ 39, 48, "COLOR" ],
+      [ 49, 61, "BRAND" ]
+    ]
+  },
+  {
+    "content": "CLASSIC Veitsitukki Setti 7 osaa",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Aromatics Elixir, Perfume Spray 45ml",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 18, 31, "PRODUCT" ],
+      [ 32, 36, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Puma Silm\u00e4lasit PJ0029O Kids 001",
+    "entities": [
+      [ 5, 15, "PRODUCT" ],
+      [ 0, 4, "BRAND" ]
+    ]
+  },
+  {
+    "content": "G12 Black Shiny Polarized",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 4, 9, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Suoja Box Kaasugrilliin",
+    "entities": [ [ 0, 9, "PRODUCT" ] ]
+  },
+  {
+    "content": "Verpan-Fun 1DM Riippuvalaisin",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 15, 29, "PRODUCT" ],
+      [ 11, 14, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Lyhyt mekko Betty London\u00a0 LADY",
+    "entities": [
+      [ 6, 11, "PRODUCT" ],
+      [ 11, 30, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Coat Rack Naulakko, Musta/Rauta",
+    "entities": [
+      [ 0, 18, "PRODUCT" ],
+      [ 20, 25, "COLOR" ],
+      [ 26, 31, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Chelsea P\u00f6yt\u00e4valaisin 31x48cm, Musta",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 21, "PRODUCT" ],
+      [ 22, 29, "SIZE/WEIGHT" ],
+      [ 31, 36, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Reppu Vans\u00a0 WM REALM PLUS BACKPA",
+    "entities": [
+      [ 0, 14, "BRAND" ],
+      [ 26, 32, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Lash Sensational Waterproof Mascara, Black",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 28, 35, "PRODUCT" ],
+      [ 37, 42, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Tilda Dress Polvipituinen Mekko Sininen Boob",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 26, 31, "PRODUCT" ],
+      [ 5, 11, "PRODUCT" ],
+      [ 32, 39, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Origami P\u00f6yt\u00e4valaisin, Valkoinen",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 21, "PRODUCT" ],
+      [ 23, 32, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Absolute Woman, EdT 40ml",
+    "entities": [
+      [ 0, 14, "BRAND" ],
+      [ 20, 24, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Moss Kynttil\u00e4njalka 8.5 cm Blue Mirage",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 5, 19, "PRODUCT" ],
+      [ 20, 26, "SIZE/WEIGHT" ],
+      [ 27, 38, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Le Parfum, Deospray 100ml",
+    "entities": [
+      [ 0, 9, "BRAND" ],
+      [ 10, 19, "PRODUCT" ],
+      [ 20, 25, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Vredestein Flotation + ( 400/70 -20 150A8 TL )",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 25, 43, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "VG10 Leip\u00e4veitsi 20cm",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 5, 16, "PRODUCT" ],
+      [ 17, 21, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Mitas TD-19 ( 12.4 -24 120A6 8PR TT kaksoistun...",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 14, 34, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Diesel Silm\u00e4lasit DL5050 050",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 6, 17, "PRODUCT" ],
+      [ 17, 28, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Kate Spade Aurinkolasit Avaline2/S HT8/0J",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 11, 23, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Ozka Agro 10 Traction ( 280/85 R24 115A8 TL ka...",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 24, 43, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Gloryfy Gi15 St Pauli Havanna Shiny",
+    "entities": [ [ 0, 13, "BRAND" ] ]
+  },
+  {
+    "content": "Select Warm Shortsit w/Lycra Musta",
+    "entities": [
+      [ 0, 11, "BRAND" ],
+      [ 28, 34, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Retrosuperfuture Aurinkolasit DREW MAMA PANNA ...",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 16, 29, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Superdry Silm\u00e4lasit SDO YUMI 104",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Sophie Aurora Dress Maksimekko Juhlamekko Sininen Bruuns Bazaar",
+    "entities": [
+      [ 0, 13, "BRAND" ],
+      [ 14, 19, "PRODUCT" ],
+      [ 25, 30, "PRODUCT" ],
+      [ 42, 49, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Norr Leip\u00e4veitsi 21 cm",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 4, 16, "PRODUCT" ],
+      [ 17, 22, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Essential for Her, EdT 20ml",
+    "entities": [
+      [ 0, 17, "BRAND" ],
+      [ 23, 27, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Essential for Her, EdT 40ml",
+    "entities": [
+      [ 0, 17, "BRAND" ],
+      [ 23, 27, "SIZE/WEIGHT" ],
+      [ 18, 22, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "FF Veitsitukki 5 veist\u00e4 valkoinen",
+    "entities": [
+      [ 0, 2, "BRAND" ],
+      [ 3, 14, "PRODUCT" ],
+      [ 17, 23, "PRODUCT" ],
+      [ 24, 33, "COLOR" ]
+    ]
+  },
+  {
+    "content": "GI21 Dante Red",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 11, 14, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Lyhythihainen t-paita BOTD\u00a0 ESTOILA",
+    "entities": [
+      [ 14, 21, "PRODUCT" ],
+      [ 22, 35, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Big Star\u00a0 Shoes Big Top FF274343",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 6, 15, "BRAND" ],
+      [ 17, 22, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Starmaxx TR-110 ( 340/85 R38 133A8 TL kaksoistunnus  130B",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 17, 36, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Dana Buchman Silm\u00e4lasit Poppi BLACK",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 13, 23, "PRODUCT" ],
+      [ 30, 35, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Roberto Cavalli Silm\u00e4lasit RC 5052 FOIANO 016",
+    "entities": [
+      [ 0, 15, "BRAND" ],
+      [ 16, 26, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Roberto Cavalli Silm\u00e4lasit RC 5053 FOLLONICA A56",
+    "entities": [
+      [ 0, 15, "BRAND" ],
+      [ 16, 27, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Femme, EdP 100ml",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 7, 10, "PRODUCT" ],
+      [ 11, 16, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Paradise Bay, EdP 85ml",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 14, 17, "PRODUCT" ],
+      [ 18, 22, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Rannekoru A1859 Leather Bracelet Black",
+    "entities": [
+      [ 0, 9, "BRAND" ],
+      [ 15, 23, "MATERIAL" ],
+      [ 23, 32, "PRODUCT" ],
+      [ 32, 38, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Striped Flower Pussilakana 220x220cm, Lt Aqua",
+    "entities": [
+      [ 0, 14, "BRAND" ],
+      [ 15, 26, "PRODUCT" ],
+      [ 27, 36, "SIZE/WEIGHT" ],
+      [ 38, 45, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Funktion 4 Matala Kattila ja kansi 140 cl",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 17, 25, "PRODUCT" ],
+      [ 29, 35, "PRODUCT" ],
+      [ 35, 41, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Mosakb Tie Dress Polvipituinen Mekko Moniv\u00e4rinen/Kuvioitu Karen By Simonsen",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 11, 16, "PRODUCT" ],
+      [ 31, 36, "PRODUCT" ],
+      [ 37, 48, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Bitz kulho \u00d8 14 cm musta Musta-meripihka",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 13, 18, "SIZE/WEIGHT" ],
+      [ 19, 24, "COLOR" ],
+      [ 24, 30, "COLOR" ],
+      [ 31, 40, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Cultor RD-01 ( 320/85 R32 142A8 TL kaksoistunnus  142B",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 14, 33, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "DBKD-Oblong Ruukku/Maljakko Small, Mole",
+    "entities": [
+      [ 0, 11, "BRAND" ],
+      [ 12, 18, "PRODUCT" ],
+      [ 19, 27, "PRODUCT" ],
+      [ 27, 33, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Poikien sandaalit Geox\u00a0 JR SANDAL STRADA",
+    "entities": [
+      [ 0, 7, "GENDER" ],
+      [ 8, 17, "PRODUCT" ],
+      [ 18, 26, "BRAND" ],
+      [ 27, 33, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Moncler Aurinkolasit ML0073 01A",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Police Aurinkolasit SPL997 ORIGINS LITE 3 0722",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Gap Logo Joggers Collegehousut Olohousut Harmaa GAP",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 31, 41, "PRODUCT" ],
+      [ 41, 47, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Umbra Dress Maksimekko Juhlamekko Vaaleanpunainen R\u00e9sum\u00e9",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 11, "PRODUCT" ],
+      [ 17, 22, "PRODUCT" ],
+      [ 34, 49, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Harvey Jacket Outerwear Jackets Anoraks Sininen Lexington Clothing",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 6, 13, "PRODUCT" ],
+      [ 24, 31, "PRODUCT" ],
+      [ 40, 47, "COLOR" ],
+      [ 48, 66, "BRAND" ]
+    ]
+  },
+  {
+    "content": "CLASSIC Veitsitukki Setti 9 osaa Musta",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 19, "PRODUCT" ],
+      [ 26, 32, "SIZE/WEIGHT" ],
+      [ 33, 38, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Kokkiveitsi Red",
+    "entities": [
+      [ 0, 11, "PRODUCT" ],
+      [ 12, 15, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Balleriinat Ikks\u00a0 ANABEL",
+    "entities": [
+      [ 12, 16, "BRAND" ],
+      [ 18, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Bleiseri Le Temps des Cerises\u00a0 MIMO",
+    "entities": [
+      [ 9, 29, "BRAND" ],
+      [ 0, 8, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Tiffany & Co. Silm\u00e4lasit TF2175 8134",
+    "entities": [
+      [ 0, 13, "BRAND" ],
+      [ 14, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Cazal Silm\u00e4lasit 4268 003",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Timberland Silm\u00e4lasit TB1652 002",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 11, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Coolmax Saumaton Musta/pinkki 34 - 36",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 16, "PRODUCT" ],
+      [ 17, 29, "COLOR" ],
+      [ 30, 37, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Urban Mini Talvikeng\u00e4t Tarroilla Musta ECCO",
+    "entities": [
+      [ 39, 43, "BRAND" ],
+      [ 33, 38, "COLOR" ],
+      [ 11, 22, "PRODUCT" ],
+      [ 6, 10, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Stockholm Vase 22,5 cm, Lignum",
+    "entities": [
+      [ 0, 9, "BRAND" ],
+      [ 24, 30, "PRODUCT" ],
+      [ 10, 14, "PRODUCT" ],
+      [ 15, 23, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Idun Hanskat K\u00e4sineet Ruskea Hestra",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 13, 21, "PRODUCT" ],
+      [ 22, 28, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Beauty, Shower Gel 200ml",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 8, 18, "PRODUCT" ],
+      [ 19, 24, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Lyhythihainen t-paita Vans\u00a0 FLYING V CREW TEE",
+    "entities": [
+      [ 22, 26, "BRAND" ],
+      [ 0, 13, "PRODUCT" ],
+      [ 14, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Brow Defining Kit 1 set",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 5, 17, "PRODUCT" ],
+      [ 18, 23, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Extreme Length Sealer 50ml",
+    "entities": [
+      [ 0, 21, "PRODUCT" ],
+      [ 22, 26, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Prada Aurinkolasit PR53VS 1AB1I0",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Lyhythihainen t-paita Desigual\u00a0 UNDER",
+    "entities": [
+      [ 0, 13, "PRODUCT" ],
+      [ 14, 21, "PRODUCT" ],
+      [ 32, 37, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Police Silm\u00e4lasit VK079 LAPIS JR 2 Kids 06QS",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 17, "PRODUCT" ],
+      [ 30, 34, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Coolmax Musta 3436",
+    "entities": [
+      [ 0, 7, "PRODUCT" ],
+      [ 8, 13, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Extreme Length Primer 150ml",
+    "entities": [
+      [ 15, 21, "PRODUCT" ],
+      [ 0, 14, "SIZE/WEIGHT" ],
+      [ 22, 27, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Frizz Dismiss Conditioner 250ml",
+    "entities": [
+      [ 0, 25, "PRODUCT" ],
+      [ 26, 31, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Lean Back Loungestol Oak, Rusty Rose Velvet",
+    "entities": [
+      [ 26, 43, "COLOR" ],
+      [ 0, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Sweater Forest Aop Dots Svetari Collegepaita\u00a0Beige Lindex",
+    "entities": [
+      [ 51, 57, "BRAND" ],
+      [ 0, 23, "PRODUCT" ],
+      [ 24, 31, "PRODUCT" ],
+      [ 45, 50, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Frizz Dismiss Conditioner 500ml",
+    "entities": [
+      [ 0, 25, "PRODUCT" ],
+      [ 26, 31, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Wella SP Balance Scalp Shampoo 250 ml",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 30, "PRODUCT" ],
+      [ 31, 37, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Vogue Eyewear Silm\u00e4lasit VO5224 2636",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Adi Core 1/4 Z Svetari Collegepaita Musta Adidas Golf",
+    "entities": [
+      [ 42, 48, "BRAND" ],
+      [ 36, 41, "COLOR" ],
+      [ 0, 14, "PRODUCT" ],
+      [ 15, 22, "PRODUCT" ],
+      [ 23, 35, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Korkokeng\u00e4t Irregular Choice\u00a0 MARMA LADIES",
+    "entities": [
+      [ 30, 42, "BRAND" ],
+      [ 0, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Emilio Pucci Aurinkolasit EP0138 01A",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 13, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Biolage SmoothProof Serum 89ml",
+    "entities": [
+      [ 0, 25, "PRODUCT" ],
+      [ 26, 30, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Cugy Lyhyt Hame Vaaleanpunainen Vanessa Bruno",
+    "entities": [
+      [ 32, 45, "PRODUCT" ],
+      [ 16, 31, "COLOR" ],
+      [ 0, 15, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Roar Skirt Polvipituinen Hame Musta Lollys Laundry",
+    "entities": [
+      [ 35, 50, "BRAND" ],
+      [ 30, 34, "COLOR" ],
+      [ 11, 29, "PRODUCT" ],
+      [ 0, 10, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Zonnebril Alensa Retro Black",
+    "entities": [
+      [ 10, 16, "BRAND" ],
+      [ 0, 9, "PRODUCT" ],
+      [ 17, 28, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Traverse Shorts Cumin L",
+    "entities": [
+      [ 0, 15, "PRODUCT" ],
+      [ 16, 21, "COLOR" ],
+      [ 22, 23, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Flairville Low Laceshoes Shoes Business Laced Shoes Ruskea GANT",
+    "entities": [
+      [ 59, 63, "BRAND" ],
+      [ 0, 24, "PRODUCT" ],
+      [ 31, 51, "PRODUCT" ],
+      [ 52, 58, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Cartier Panthere De Cartier Naisten kello HPI01296 Valkoinen/Nahka",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 51, 66, "COLOR" ],
+      [ 8, 27, "PRODUCT" ],
+      [ 28, 35, "GENDER" ]
+    ]
+  },
+  {
+    "content": "Starmaxx TR-40 ( 6.00 -19 93A6 6PR TT )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 17, 36, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Bkt Tr-135 ( 12.4 -24 121A6 8Pr Tt )",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 13, 33, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Max Mara MM 1410 WR9",
+    "entities": [ [ 0, 11, "BRAND" ] ]
+  },
+  {
+    "content": "Keng\u00e4t Redskins\u00a0 MALVINO",
+    "entities": [
+      [ 7, 15, "BRAND" ],
+      [ 0, 6, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Nike\u00a0 Air Vapormax Flyknit 3 AJ6900-004",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 11, "BRAND" ],
+      [ 13, 35, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Persol Aurinkolasit PO2455S 107471",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Janesca Nahkatakki Musta Boss Casual Wear",
+    "entities": [
+      [ 19, 24, "COLOR" ],
+      [ 30, 41, "PRODUCT" ],
+      [ 25, 29, "BRAND" ],
+      [ 0, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Treeline Glove Tan L",
+    "entities": [
+      [ 0, 18, "PRODUCT" ],
+      [ 19, 20, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Pullover Long-Sleeve Kilpikonnakaulus Poolopaita Punainen Taifun",
+    "entities": [
+      [ 58, 64, "BRAND" ],
+      [ 49, 57, "COLOR" ],
+      [ 38, 48, "PRODUCT" ],
+      [ 21, 37, "PRODUCT" ],
+      [ 0, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "M. Cotton Merino Basic Sweater Neulepaita Py\u00f6re\u00e4 Kaula-aukko Sininen Filippa K",
+    "entities": [
+      [ 69, 78, "BRAND" ],
+      [ 0, 30, "PRODUCT" ],
+      [ 31, 41, "PRODUCT" ],
+      [ 42, 60, "PRODUCT" ],
+      [ 61, 68, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Malhotra MRL MTF 222 ( 4.50 -16 73A6 4PR TT kaksoistunnus  65A8",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 12, "PRODUCT" ],
+      [ 23, 42, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Malhotra MRL ML2-455 ( 10 -16.5 134A2 10PR TL kaksoistunnus  126A3 )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 12, "PRODUCT" ],
+      [ 23, 44, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Bobo Regular C-Nk Top Ss T-shirts & Tops Short-sleeved Sininen Tommy Hilfiger",
+    "entities": [
+      [ 63, 77, "BRAND" ],
+      [ 55, 62, "COLOR" ],
+      [ 36, 55, "PRODUCT" ],
+      [ 0, 33, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Lr-Gilmore T-shirts & Tops Long-sleeved Moniv\u00e4rinen/Kuvioitu Levete Room",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 11, 39, "PRODUCT" ],
+      [ 40, 60, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Cultor AS Front 08 ( 6.50 -16 91A6 8PR TT kaksoistunnus  83A8 )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 10, 18, "PRODUCT" ],
+      [ 21, 40, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Apple-Cto Cto:Z0Xz Mbp 16In Tb 2.4Ghz I9 16Gb 1Tb 8Gb-Space Grey Se Btop",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 19, 22, "PRODUCT" ],
+      [ 60, 64, "COLOR" ],
+      [ 23, 53, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Pusero Juni",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 11, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Pressed Mineral Foundation, 8g, Tawnee",
+    "entities": [
+      [ 0, 26, "BRAND" ],
+      [ 28, 30, "SIZE/WEIGHT" ],
+      [ 32, 38, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Pressed Mineral Foundation, 8g, Warm Beige",
+    "entities": [
+      [ 0, 26, "BRAND" ],
+      [ 28, 30, "SIZE/WEIGHT" ],
+      [ 37, 42, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Kids Cascade Ruffle T-Shirt T-shirts Sleeveless Keltainen GAP",
+    "entities": [
+      [ 20, 27, "PRODUCT" ],
+      [ 28, 36, "PRODUCT" ],
+      [ 58, 61, "BRAND" ],
+      [ 48, 57, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Cast Crepe Chukka Ny\u00f6risaappaat Musta Royal RepubliQ",
+    "entities": [
+      [ 23, 31, "PRODUCT" ],
+      [ 38, 52, "BRAND" ],
+      [ 32, 37, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Guess Aurinkolasit GU 7627 01B",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Babblarna Hakku Puuta",
+    "entities": [
+      [ 16, 21, "MATERIAL" ],
+      [ 0, 10, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Mineral Radiance Creme Powder Foundation, 7g, Barely Beige",
+    "entities": [
+      [ 42, 44, "SIZE/WEIGHT" ],
+      [ 53, 58, "COLOR" ],
+      [ 0, 16, "BRAND" ],
+      [ 23, 40, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Only Onlmaylee-Mada Faux Leather Dress P",
+    "entities": [
+      [ 33, 38, "PRODUCT" ],
+      [ 25, 32, "MATERIAL" ],
+      [ 5, 14, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Medium Lr Boot Jeans Leve\u00e4lahkeiset Farkut Sininen Hollister",
+    "entities": [
+      [ 36, 42, "PRODUCT" ],
+      [ 43, 50, "COLOR" ],
+      [ 15, 20, "PRODUCT" ],
+      [ 10, 14, "PRODUCT" ],
+      [ 0, 6, "SIZE/WEIGHT" ],
+      [ 51, 60, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Mineral Radiance Creme Powder Foundation, 7g, Coffee",
+    "entities": [
+      [ 0, 23, "BRAND" ],
+      [ 23, 40, "PRODUCT" ],
+      [ 42, 44, "SIZE/WEIGHT" ],
+      [ 45, 52, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Mineral Radiance Creme Powder Foundation, 7g, Rose Beige",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 23, 40, "PRODUCT" ],
+      [ 42, 44, "SIZE/WEIGHT" ],
+      [ 46, 56, "COLOR" ]
+    ]
+  },
+  {
+    "content": "M-4201 Shoes Heels Pumps Classic Musta Wonders",
+    "entities": [
+      [ 7, 12, "PRODUCT" ],
+      [ 33, 38, "COLOR" ],
+      [ 13, 24, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Cn Ss Tee Logo Flag T-shirts Short-sleeved Sininen Tommy Hilfiger",
+    "entities": [
+      [ 51, 65, "BRAND" ],
+      [ 42, 50, "COLOR" ],
+      [ 20, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Asics - Gel-Nimbus 22 Platinum - - US 8",
+    "entities": [
+      [ 0, 30, "BRAND" ],
+      [ 35, 39, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Neubau Silm\u00e4lasit T069 Mike 6000",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Chloe Aurinkolasit CE 139S 805",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 6, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Timberland\u00a0 LONDON SQUARE 6IN BOOT",
+    "entities": [
+      [ 33, 36, "SIZE/WEIGHT" ],
+      [ 37, 41, "PRODUCT" ],
+      [ 7, 32, "BRAND" ],
+      [ 0, 6, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Paita Bonnie",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 6, 12, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tammy Shirt Lyhythihainen Paita Beige Filippa K",
+    "entities": [
+      [ 6, 11, "PRODUCT" ],
+      [ 38, 47, "BRAND" ],
+      [ 32, 37, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Sukat, 5 paria",
+    "entities": [ [ 0, 5, "PRODUCT" ] ]
+  },
+  {
+    "content": "Spy Aurinkolasit Toddy 6700000000055",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 4, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Apple-Cto Cto:Z0Y3 Mbp 16In Tb 2.4Ghz I9 64Gb 8Tb 8Gb-Silver Se Btop",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 19, 22, "PRODUCT" ],
+      [ 23, 53, "SIZE/WEIGHT" ],
+      [ 54, 60, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Carolina Herrera Silm\u00e4lasit VHE734K 752Y",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 17, 27, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "T-Shirt Rn T-shirts Short-sleeved Musta BOSS",
+    "entities": [
+      [ 0, 7, "PRODUCT" ],
+      [ 11, 19, "PRODUCT" ],
+      [ 34, 39, "COLOR" ],
+      [ 40, 44, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Porsche Design Aurinkolasit P8600 C/V713",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 15, 27, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Nokian Hakkapeliitta 8 SUV ( 255/45 R20 105T XL nastarengas\u00a0 )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 29, 46, "SIZE/WEIGHT" ],
+      [ 53, 59, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Grant Stretch Twill Pants Puvun Housut Suorat Housut Sininen J. Lindeberg",
+    "entities": [
+      [ 61, 73, "BRAND" ],
+      [ 53, 60, "COLOR" ],
+      [ 32, 38, "PRODUCT" ],
+      [ 20, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Cotton Front Logo T-Shirt T-shirts Short-sleeved Sininen Calvin Klein",
+    "entities": [
+      [ 18, 25, "PRODUCT" ],
+      [ 26, 34, "PRODUCT" ],
+      [ 49, 56, "COLOR" ],
+      [ 57, 69, "BRAND" ],
+      [ 0, 6, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Pusero Juni",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 11, "BRAND" ]
+    ]
+  },
+  {
+    "content": "W Lokka Ls Shirt Pitk\u00e4hihainen Paita Helly Hansen",
+    "entities": [
+      [ 37, 49, "BRAND" ],
+      [ 31, 36, "PRODUCT" ],
+      [ 11, 16, "PRODUCT" ],
+      [ 0, 1, "GENDER" ]
+    ]
+  },
+  {
+    "content": "Guess GU7621 52F",
+    "entities": [ [ 0, 5, "BRAND" ] ]
+  },
+  {
+    "content": "Spy Aurinkolasit Arcylon Polarized 6800000000042",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 4, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Mineral Radiance Creme Powder Foundation, 7g, Tawnee",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 23, 40, "PRODUCT" ],
+      [ 42, 44, "SIZE/WEIGHT" ],
+      [ 46, 52, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Michelin Multibib ( 320/65 R16 107D TL )",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 20, 38, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Apple-Cto Cto:Z0Y0 Mbp 16In Tb 2.4Ghz I9 32Gb 1Tb 4Gb-Space Grey Se Btop",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 19, 22, "PRODUCT" ],
+      [ 60, 64, "COLOR" ],
+      [ 23, 53, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Dragon Alliance Aurinkolasit DR D1OTG BONUS\u00a0",
+    "entities": [
+      [ 16, 28, "PRODUCT" ],
+      [ 0, 15, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Mary-Dew Manizer\u00ae Liquid Highlighter Korostus Varjostus Contouring Meikki The Balm",
+    "entities": [
+      [ 25, 36, "PRODUCT" ],
+      [ 0, 17, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Woms Boots Shoes Boots Ankle Boots Ankle Boot - Heel Musta Tamaris",
+    "entities": [
+      [ 59, 66, "BRAND" ],
+      [ 53, 58, "COLOR" ],
+      [ 5, 10, "PRODUCT" ],
+      [ 11, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Ralph Lauren Aurinkolasit RL8179 57926H",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 13, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Silje Polvipituinen Hame Ruskea Baum Und Pferdgarten",
+    "entities": [
+      [ 25, 31, "COLOR" ],
+      [ 32, 52, "BRAND" ],
+      [ 20, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Fabelab Kuu-mobiili soittorasialla",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 12, 19, "PRODUCT" ],
+      [ 20, 34, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Neubau Silm\u00e4lasit T038 Felix 9040",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Emporio Armani Aurinkolasit EA2086 30156G",
+    "entities": [
+      [ 0, 14, "BRAND" ],
+      [ 15, 27, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Mineral Radiance Creme Powder Foundation, 7g, Warm Beige",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 17, 40, "PRODUCT" ],
+      [ 42, 44, "SIZE/WEIGHT" ],
+      [ 51, 56, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Mineral Radiance Creme Powder, 7g, Honey",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 17, 29, "PRODUCT" ],
+      [ 31, 33, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Mineral Radiance Creme Powder, 7g, Neutral",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 17, 29, "PRODUCT" ],
+      [ 31, 33, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Hewlett Packard Enterprise XL230K GEN10 XEON-G 6143 REAR KIT IN CHIP",
+    "entities": [ [ 0, 15, "BRAND" ] ]
+  },
+  {
+    "content": "Mineral Radiance Creme Powder, 7g, Toffee",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 17, 29, "PRODUCT" ],
+      [ 31, 33, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Spy Aurinkolasit Rocky Polarized 6700000000086",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 4, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Toppatakki Only  ONLSHELLY",
+    "entities": [
+      [ 0, 10, "PRODUCT" ],
+      [ 11, 15, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Adidas Originals Aurinkolasit AOR017 070.009",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 17, 29, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Serengeti Aurinkolasit Renzo 8626",
+    "entities": [
+      [ 0, 9, "BRAND" ],
+      [ 10, 22, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "A Rose Dream Ear Accessories Jewellery Earrings Studs Hopea Efva Attling",
+    "entities": [
+      [ 29, 38, "PRODUCT" ],
+      [ 39, 47, "PRODUCT" ],
+      [ 54, 59, "MATERIAL" ],
+      [ 0, 16, "BRAND" ],
+      [ 17, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Vans - Checker Sweater - Musta - M",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 15, 22, "PRODUCT" ],
+      [ 25, 30, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Ashley Jersey Tee T-shirts & Tops Short-sleeved Ruskea Lexington Clothing",
+    "entities": [
+      [ 48, 54, "COLOR" ],
+      [ 18, 33, "PRODUCT" ],
+      [ 55, 73, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Wild Knit Raw Polvipituinen Mekko Beige Moshi Moshi Mind",
+    "entities": [
+      [ 28, 33, "PRODUCT" ],
+      [ 34, 39, "COLOR" ],
+      [ 40, 56, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Jordan Lattiavalaisin, Messinki",
+    "entities": [
+      [ 7, 21, "PRODUCT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Retrosuperfuture Aurinkolasit Tuttolente Lucia Black IS6D N26",
+    "entities": [
+      [ 17, 29, "PRODUCT" ],
+      [ 47, 52, "COLOR" ],
+      [ 0, 16, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Kenneth Cole Slim Miesten kello KC9335 Hopea/Ter\u00e4s \u00d844 mm",
+    "entities": [
+      [ 51, 57, "SIZE/WEIGHT" ],
+      [ 39, 50, "MATERIAL" ],
+      [ 26, 31, "PRODUCT" ],
+      [ 18, 25, "GENDER" ],
+      [ 0, 12, "BRAND" ]
+    ]
+  },
+  {
+    "content": "T-paidat pitkill\u00e4 hihoilla Morgan  TPOIS",
+    "entities": [
+      [ 0, 8, "PRODUCT" ],
+      [ 35, 40, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Salvatore Ferragamo Silm\u00e4lasit SF 2777 424",
+    "entities": [
+      [ 0, 19, "BRAND" ],
+      [ 20, 30, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "SmartBuy Collection Silm\u00e4lasit Hughes 970E",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 20, 30, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Etched Leaves -lasinalunen 30x23 cm 4 kpl pakkaus Tummansininen",
+    "entities": [
+      [ 27, 35, "SIZE/WEIGHT" ],
+      [ 36, 41, "SIZE/WEIGHT" ],
+      [ 49, 63, "COLOR" ],
+      [ 15, 26, "PRODUCT" ],
+      [ 0, 13, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Diesel Silm\u00e4lasit DL5249 054",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Kampa bambua",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 6, 12, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Paita jrBinta 3/4 Blouse",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 18, 24, "PRODUCT" ],
+      [ 6, 13, "BRAND" ],
+      [ 14, 17, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Pepe jeans  ADAM SABA",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 12, 17, "MATERIAL" ],
+      [ 19, 28, "BRAND" ]
+    ]
+  },
+  {
+    "content": "D1. Gant Sports Washbag Toilettilaukut Musta GANT",
+    "entities": [
+      [ 45, 49, "BRAND" ],
+      [ 39, 44, "COLOR" ],
+      [ 24, 38, "PRODUCT" ],
+      [ 16, 23, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "SUPERMICRO Mbd-X9Srw-F-O Sngl Skt Intl C602 Chipset",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 44, 51, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Boot Shoes Boots Ankle Boots Ankle Boot - Heel Valkoinen Sofie Schnoor",
+    "entities": [
+      [ 0, 4, "PRODUCT" ],
+      [ 5, 10, "PRODUCT" ],
+      [ 11, 16, "PRODUCT" ],
+      [ 17, 28, "PRODUCT" ],
+      [ 47, 56, "COLOR" ],
+      [ 57, 70, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Prada Aurinkolasit PR08XS 2AU6S1",
+    "entities": [
+      [ 6, 18, "PRODUCT" ],
+      [ 0, 5, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Paita",
+    "entities": [ [ 0, 5, "PRODUCT" ] ]
+  },
+  {
+    "content": "Ermenegildo Zegna Silm\u00e4lasit EZ5009 001",
+    "entities": [
+      [ 0, 17, "BRAND" ],
+      [ 18, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Paita Juel 146",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 6, 10, "BRAND" ],
+      [ 11, 14, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Liu Jo Aurinkolasit LJ110S 711",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Redskins  VERVIL",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 17, 23, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tunika Cora",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 11, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Ippon Vintage  DOLLY MAGIC",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 22, 33, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Adidas Originals Silm\u00e4lasit AOR010O 009.000",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 17, 27, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Jimmy Choo Silm\u00e4lasit JC188 FN1",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 11, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Paita jrBinta 3/4 Blouse",
+    "entities": [
+      [ 6, 13, "BRAND" ],
+      [ 0, 5, "PRODUCT" ],
+      [ 18, 24, "PRODUCT" ],
+      [ 14, 17, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Tag Heuer Silm\u00e4lasit TH-0555 005",
+    "entities": [
+      [ 10, 20, "PRODUCT" ],
+      [ 0, 9, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Triangle Fixed Bikiniyl\u00e4osa Bikiniliivit Sininen Tommy Hilfiger",
+    "entities": [
+      [ 49, 63, "BRAND" ],
+      [ 41, 48, "COLOR" ],
+      [ 15, 27, "PRODUCT" ],
+      [ 28, 40, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Nexen Winguard WT1 ( 215/65 R16C 109/107R 8PR )",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 21, 44, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Realistnen Dildo REAL LOVE 7",
+    "entities": [
+      [ 27, 28, "SIZE/WEIGHT" ],
+      [ 11, 16, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Nike Aurinkolasit OUTRIDER E EV1086 820",
+    "entities": [
+      [ 5, 17, "PRODUCT" ],
+      [ 0, 4, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Colonia Pura, EdC 50ml",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 18, 22, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Maxtrek TREK M900 ICE ( 235/60 R18 107S, nastarengas  )",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 24, 39, "SIZE/WEIGHT" ],
+      [ 41, 52, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Tom Ford Aurinkolasit FT0735-H 01W",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "SmartBuy Collection Silm\u00e4lasit Keira L139C",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 20, 30, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Burberry Aurinkolasit BE3092Q 12437J",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 9, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Brizaiw Dress Polvipituinen Mekko Beige InWear",
+    "entities": [
+      [ 28, 33, "PRODUCT" ],
+      [ 34, 39, "COLOR" ],
+      [ 40, 46, "BRAND" ],
+      [ 8, 13, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Lastenkeng\u00e4t Vans  TD OLD SKOOL V",
+    "entities": [
+      [ 0, 12, "PRODUCT" ],
+      [ 13, 17, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Startech Brocade 10G-Sfpp-Sr Comp - Sfp+ Module - Mm Transceiver In Accs",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 53, 64, "PRODUCT" ],
+      [ 17, 20, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Adidas Originals Aurinkolasit AOR016 BHS.021",
+    "entities": [
+      [ 17, 29, "PRODUCT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Paita jdyEnya 3/4 Placket Puff Top",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 6, 13, "BRAND" ],
+      [ 14, 17, "SIZE/WEIGHT" ],
+      [ 31, 34, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Raidallinen neulemekko Alba Moda Laivastonsininen::Valkoinen::Punainen",
+    "entities": [
+      [ 12, 22, "PRODUCT" ],
+      [ 23, 32, "BRAND" ],
+      [ 33, 70, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Zac Posen Aurinkolasit ARROH BLACK",
+    "entities": [
+      [ 0, 9, "BRAND" ],
+      [ 10, 22, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Pusero R.Y.V. Tee",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 17, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Sculpted Western Env Bags Small Shoulder Bags - Crossbody Bags Musta Calvin Klein",
+    "entities": [
+      [ 21, 25, "PRODUCT" ],
+      [ 32, 45, "PRODUCT" ],
+      [ 26, 31, "SIZE/WEIGHT" ],
+      [ 48, 62, "PRODUCT" ],
+      [ 63, 68, "COLOR" ],
+      [ 69, 81, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Bvlgari Aurinkolasit Swarovski SK 5126 032",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Boss by Hugo Boss Aurinkolasit BOSS 1073/S 003/IR",
+    "entities": [
+      [ 8, 17, "BRAND" ],
+      [ 18, 30, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "EPSON WorkForce ES-50",
+    "entities": [ [ 0, 5, "BRAND" ] ]
+  },
+  {
+    "content": "Jaeger LeCoultre Master Ultra Thin Naisten kello 1252520 Hopea/Nahka",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 35, 42, "GENDER" ],
+      [ 43, 48, "PRODUCT" ],
+      [ 57, 62, "COLOR" ],
+      [ 63, 68, "MATERIAL" ]
+    ]
+  },
+  {
+    "content": "Neubau Silm\u00e4lasit T047 Frank 6230",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Lastenkeng\u00e4t BEPPI\u00a0 LOVUVETTE",
+    "entities": [
+      [ 6, 12, "PRODUCT" ],
+      [ 13, 29, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Emilio Pucci Silm\u00e4lasit EP2690 278",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 13, 23, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Boots Shoes Boots Ankle Boots Ankle Boot - Heel Harmaa Tamaris",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 6, 11, "PRODUCT" ],
+      [ 43, 62, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Lip Pencil, Brick Huulikyn\u00e4 Meikki Punainen M.A.C.",
+    "entities": [
+      [ 4, 10, "PRODUCT" ],
+      [ 12, 17, "COLOR" ],
+      [ 18, 27, "PRODUCT" ],
+      [ 35, 43, "COLOR" ],
+      [ 44, 50, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Mont Blanc Silm\u00e4lasit MB0010O 003",
+    "entities": [
+      [ 0, 10, "BRAND" ],
+      [ 10, 21, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Guess Aurinkolasit GU 7612 83Z",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Porsche Design Silm\u00e4lasit P8256 B",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 15, 26, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Liu Jo Silm\u00e4lasit LJ2676 609",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Mera Polvipituinen Mekko Moniv\u00e4rinen/Kuvioitu Stella Nova",
+    "entities": [
+      [ 18, 24, "PRODUCT" ],
+      [ 46, 57, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tom Ford Aurinkolasit FT0717 SIMONA 52F",
+    "entities": [
+      [ 0, 8, "BRAND" ],
+      [ 8, 22, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Neubau Silm\u00e4lasit T058 Theo 3530",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Agira Carshoe Loaferit Matalat Keng\u00e4t Musta Morris",
+    "entities": [
+      [ 31, 37, "PRODUCT" ],
+      [ 37, 43, "COLOR" ],
+      [ 44, 50, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Tommy Hilfiger Silm\u00e4lasit TH 1554 PJP",
+    "entities": [
+      [ 0, 14, "BRAND" ],
+      [ 15, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Black Diamond HeavyWeight ScreenTap",
+    "entities": [ [ 0, 13, "BRAND" ] ]
+  },
+  {
+    "content": "Healing Style Design Foam, 200ml",
+    "entities": [
+      [ 0, 13, "BRAND" ],
+      [ 21, 25, "PRODUCT" ],
+      [ 27, 32, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Healing Style Sculpting Paste, 100ml",
+    "entities": [
+      [ 0, 13, "BRAND" ],
+      [ 14, 29, "PRODUCT" ],
+      [ 31, 36, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "CK Silm\u00e4lasit 5469 714",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 3, 13, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "WPG4035 Ultimate Bikini Kit 1 set",
+    "entities": [
+      [ 8, 17, "BRAND" ],
+      [ 17, 23, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Montana Collection By SBG Aurinkolasit\u00a0",
+    "entities": [
+      [ 0, 25, "BRAND" ],
+      [ 26, 38, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Neubau Silm\u00e4lasit T068 Jan 6200",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Apple-Cto Cto:Z0Y1 Mbp 16In Tb 2.4Ghz I9 16Gb 2Tb 4Gb-Silver Se Btop",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 18, 22, "PRODUCT" ],
+      [ 54, 61, "COLOR" ],
+      [ 23, 53, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Mustad L87",
+    "entities": [ [ 0, 6, "COLOR" ] ]
+  },
+  {
+    "content": "Shunga organica massage oil\u00a0 NATURAL",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 16, 27, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Adidas Originals Dc Dress",
+    "entities": [
+      [ 20, 25, "PRODUCT" ],
+      [ 0, 6, "BRAND" ]
+    ]
+  },
+  {
+    "content": "McQ Silm\u00e4lasit MCQ0027 RL7",
+    "entities": [
+      [ 0, 3, "BRAND" ],
+      [ 4, 14, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Ralph by Ralph Lauren Silm\u00e4lasit RA7107 5785",
+    "entities": [
+      [ 22, 32, "PRODUCT" ],
+      [ 9, 21, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Ermenegildo Zegna Aurinkolasit EZ0138 02E",
+    "entities": [
+      [ 0, 17, "BRAND" ],
+      [ 17, 31, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Polaroid PLD 2074/S/X KJ1/M9",
+    "entities": [ [ 0, 8, "BRAND" ] ]
+  },
+  {
+    "content": "Eloise Top T-shirts & Tops Long-sleeved Sininen Filippa K",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 11, 19, "PRODUCT" ],
+      [ 39, 47, "COLOR" ],
+      [ 27, 39, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Neubau Silm\u00e4lasit T021 Edmund 7940",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 6, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Hewlett Packard Enterprise XL1X0R GEN10 XEON-S 4108 KIT IN CHIP",
+    "entities": [ [ 0, 15, "BRAND" ] ]
+  },
+  {
+    "content": "Keng\u00e4t Andr\u00e9\u00a0 ELBA30037 FD Pike Tube 5mm",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 6, 12, "BRAND" ],
+      [ 37, 40, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Guess Silm\u00e4lasit GU 2698 083",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 16, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Kenda K774F Budds Creek ( 80/100-21 TL 51M )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 26, 42, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Guess Aurinkolasit GM 0801 10B",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Vandogz Boots Ms20 Shoes Boots Ankle Boots Ankle Boot - Heel Ruskea Gestuz",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 9, 13, "PRODUCT" ],
+      [ 19, 24, "PRODUCT" ],
+      [ 60, 67, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Guess Aurinkolasit GM 0800 10Z",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 5, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Pressed Mineral Foundation, 8g, Coffee",
+    "entities": [
+      [ 28, 30, "SIZE/WEIGHT" ],
+      [ 32, 38, "PRODUCT" ],
+      [ 0, 26, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Jorcourier Tee Ls Crew Neck Jr T-shirts Long-sleeved T-shirts Punainen Jack & J S",
+    "entities": [
+      [ 71, 81, "BRAND" ],
+      [ 62, 70, "COLOR" ],
+      [ 31, 39, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Prt Ls Placket Detail Blouse Pitk\u00e4hihainen Pusero Paita Punainen Calvin Klein",
+    "entities": [
+      [ 65, 77, "BRAND" ],
+      [ 55, 64, "COLOR" ],
+      [ 22, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Pressed Mineral Foundation, 8g, Neutral",
+    "entities": [
+      [ 0, 26, "BRAND" ],
+      [ 28, 30, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Swedese-Lamino Nojatuoli Maalattu Py\u00f6kki, Musta talja",
+    "entities": [
+      [ 0, 14, "BRAND" ],
+      [ 34, 40, "COLOR" ],
+      [ 42, 48, "COLOR" ],
+      [ 15, 24, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Liu Jo Silm\u00e4lasit LJ2707 424",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 7, 17, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "K\u00e4sil\u00e4psy Valkoinen",
+    "entities": [ [ 10, 19, "COLOR" ] ]
+  },
+  {
+    "content": "Carhartt WIP - W\u00b4 Deming Jacket - Moniv\u00e4rinen - XS",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 18, 31, "PRODUCT" ],
+      [ 34, 45, "COLOR" ],
+      [ 48, 50, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Paolo p\u00e4iv\u00e4peitto 260x270 cm Kermainen beige",
+    "entities": [
+      [ 6, 17, "PRODUCT" ],
+      [ 18, 28, "SIZE/WEIGHT" ],
+      [ 29, 44, "COLOR" ]
+    ]
+  },
+  {
+    "content": "2nd Zsazsa Polvipituinen Hame Musta 2NDDAY",
+    "entities": [
+      [ 11, 29, "PRODUCT" ],
+      [ 30, 35, "COLOR" ],
+      [ 36, 42, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Svetari Suncoo PABLO",
+    "entities": [
+      [ 0, 7, "PRODUCT" ],
+      [ 8, 14, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Cayuga Purjehduskeng\u00e4t Keng\u00e4t Ruskea Sebago",
+    "entities": [
+      [ 7, 22, "PRODUCT" ],
+      [ 23, 29, "PRODUCT" ],
+      [ 30, 36, "COLOR" ],
+      [ 37, 43, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Calvin Klein Silm\u00e4lasit CK18540 415",
+    "entities": [
+      [ 0, 12, "BRAND" ],
+      [ 13, 23, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "To Go Water Bottle Accessories Water Bottles Vihre\u00e4 Design Letters",
+    "entities": [
+      [ 6, 18, "PRODUCT" ],
+      [ 37, 44, "PRODUCT" ],
+      [ 45, 51, "COLOR" ],
+      [ 52, 66, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Hugo Boss HG 1061 003",
+    "entities": [ [ 0, 9, "BRAND" ] ]
+  },
+  {
+    "content": "Croon Silm\u00e4lasit Leesbril Classic Black Shiny",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 16, "PRODUCT" ],
+      [ 34, 39, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Tiger Jb 5 Svetari Collegepaita Vihre\u00e4 Kenzo",
+    "entities": [
+      [ 11, 18, "PRODUCT" ],
+      [ 19, 31, "PRODUCT" ],
+      [ 32, 38, "COLOR" ],
+      [ 39, 44, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Healing Color Care Color-Preserving Conditioner, 250ml",
+    "entities": [
+      [ 36, 47, "PRODUCT" ],
+      [ 49, 54, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Seventh Street Silm\u00e4lasit 7A024 086",
+    "entities": [
+      [ 0, 14, "BRAND" ],
+      [ 15, 25, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Warm Lining 81923 Shoes Boots Ankle Boots Ankle Boot - Flat Musta Carla F",
+    "entities": [
+      [ 0, 11, "MATERIAL" ],
+      [ 18, 23, "PRODUCT" ],
+      [ 24, 29, "PRODUCT" ],
+      [ 30, 41, "PRODUCT" ],
+      [ 60, 65, "COLOR" ],
+      [ 66, 73, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Guess Aurinkolasit GU 3026 91W",
+    "entities": [
+      [ 0, 5, "BRAND" ],
+      [ 6, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Healing Color Care Color-Preserving Conditioner, 750ml",
+    "entities": [
+      [ 36, 47, "PRODUCT" ],
+      [ 49, 54, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Adele Tee T-shirts & Tops Short-sleeved Oranssi Minus",
+    "entities": [
+      [ 10, 25, "PRODUCT" ],
+      [ 40, 47, "COLOR" ],
+      [ 48, 53, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Solar Eclipse All Over Schoolbag Accessories Bags Backpacks Vaaleanpunainen Bobo Choses",
+    "entities": [
+      [ 23, 32, "PRODUCT" ],
+      [ 50, 59, "PRODUCT" ],
+      [ 60, 75, "COLOR" ],
+      [ 76, 87, "BRAND" ]
+    ]
+  },
+  {
+    "content": "1 Million EdT - 50 ml",
+    "entities": [ [ 16, 21, "SIZE/WEIGHT" ] ]
+  },
+  {
+    "content": "Illusione Male EdT - 50 ml",
+    "entities": [
+      [ 10, 14, "GENDER" ],
+      [ 21, 26, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Donna EdT - 50 ml",
+    "entities": [
+      [ 0, 5, "PRODUCT" ],
+      [ 12, 17, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Nike Mercurial Vapor 13 Pro IC Dream Speed 3 - Valkoinen/Musta",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 5, 20, "PRODUCT" ],
+      [ 47, 62, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Chopard Happy Sport Naisten kello 278590-3001 Valkoinen/Kumi \u00d830 mm",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 20, 27, "GENDER" ],
+      [ 28, 33, "PRODUCT" ],
+      [ 46, 60, "COLOR" ],
+      [ 62, 67, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Orangerie Boxer Short Lingerie Panties Hipsters/boyshorts/brazilian Musta CHANTELLE",
+    "entities": [
+      [ 31, 38, "PRODUCT" ],
+      [ 68, 73, "COLOR" ],
+      [ 74, 83, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keratin Healing Oil Lustrous Shampoo 50ml",
+    "entities": [
+      [ 16, 19, "PRODUCT" ],
+      [ 29, 36, "PRODUCT" ],
+      [ 37, 41, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Piece Baseball Cap Accessories Headwear Caps Valkoinen Les Deux",
+    "entities": [
+      [ 6, 18, "PRODUCT" ],
+      [ 40, 44, "PRODUCT" ],
+      [ 45, 54, "COLOR" ],
+      [ 55, 63, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keratin Healing Oil Lustrous Shampoo, 300ml",
+    "entities": [
+      [ 16, 19, "PRODUCT" ],
+      [ 29, 36, "PRODUCT" ],
+      [ 38, 43, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Keratin Healing Oil Lustrous Shampoo, 950ml",
+    "entities": [
+      [ 16, 19, "PRODUCT" ],
+      [ 29, 36, "PRODUCT" ],
+      [ 38, 43, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Lastenkeng\u00e4t Nike ROSHE ONE PRINT JUNIOR",
+    "entities": [ [ 13, 17, "BRAND" ] ]
+  },
+  {
+    "content": "Keratin Healing Oil Hair Treatment 100ml",
+    "entities": [
+      [ 16, 19, "PRODUCT" ],
+      [ 35, 40, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Roberto Cavalli Aurinkolasit RC 1063 GIANNUTRI 01B",
+    "entities": [
+      [ 0, 15, "BRAND" ],
+      [ 16, 28, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Lasten talvisaappaat Aigle NEERVEI",
+    "entities": [ [ 7, 20, "PRODUCT" ] ]
+  },
+  {
+    "content": "Nike Silm\u00e4lasit 5016 445",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 5, 15, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Keng\u00e4t Tosca Blu FRASER",
+    "entities": [
+      [ 0, 6, "PRODUCT" ],
+      [ 7, 16, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Maxxis Arctictrekker NP3 ( 175/70 R14 88T XL, nastarengas )",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 27, 44, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Keratin Healing Oil Hair Treatment 185ml",
+    "entities": [
+      [ 16, 19, "PRODUCT" ],
+      [ 35, 40, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Nike S\u00e4\u00e4risuojat Mercurial Lite - Sininen/Sininen/Punainen",
+    "entities": [
+      [ 0, 4, "BRAND" ],
+      [ 5, 16, "PRODUCT" ],
+      [ 34, 58, "COLOR" ]
+    ]
+  },
+  {
+    "content": "Adidas Originals Aurinkolasit AOR009 076.026",
+    "entities": [
+      [ 0, 16, "BRAND" ],
+      [ 17, 29, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Keratin Healing Oil Hair Treatment 50ml",
+    "entities": [
+      [ 16, 19, "PRODUCT" ],
+      [ 35, 39, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Keratin Healing Oil Lustrous Conditioner 50ml",
+    "entities": [
+      [ 16, 19, "PRODUCT" ],
+      [ 29, 40, "PRODUCT" ],
+      [ 41, 45, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Perfect EdP - 50 ml",
+    "entities": [ [ 14, 19, "SIZE/WEIGHT" ] ]
+  },
+  {
+    "content": "Persol Aurinkolasit PO3215S 95/31",
+    "entities": [
+      [ 0, 6, "BRAND" ],
+      [ 7, 19, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Bottega Veneta EdP - 50 ml",
+    "entities": [
+      [ 21, 26, "SIZE/WEIGHT" ],
+      [ 0, 14, "BRAND" ],
+      [ 15, 18, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Vuarnet Aurinkolasit VL1709 Polarized 0001 2622",
+    "entities": [
+      [ 0, 7, "BRAND" ],
+      [ 8, 20, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Prada Linea Rossa Aurinkolasit PS52TS DG05S0",
+    "entities": [
+      [ 0, 17, "BRAND" ],
+      [ 18, 30, "PRODUCT" ]
+    ]
+  },
+  {
+    "content": "Be Delicious Duo EdP 50 ml, Deostick 75 ml -",
+    "entities": [
+      [ 37, 42, "SIZE/WEIGHT" ],
+      [ 21, 26, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "W Hh Logo Hoodie Huppari Vaaleanpunainen Helly Hansen",
+    "entities": [
+      [ 0, 1, "GENDER" ],
+      [ 10, 16, "PRODUCT" ],
+      [ 17, 24, "PRODUCT" ],
+      [ 25, 40, "COLOR" ],
+      [ 41, 53, "BRAND" ]
+    ]
+  },
+  {
+    "content": "Keratin Healing Oil Lustrous Conditioner 950ml",
+    "entities": [
+      [ 16, 19, "PRODUCT" ],
+      [ 29, 40, "PRODUCT" ],
+      [ 41, 46, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Keratin Healing Oil Lustrous Conditioner, 250ml",
+    "entities": [
+      [ 16, 19, "PRODUCT" ],
+      [ 29, 40, "PRODUCT" ],
+      [ 42, 47, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Healing Nourish Stimulating Shampoo, 1000ml",
+    "entities": [
+      [ 28, 35, "PRODUCT" ],
+      [ 37, 43, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Healing Nourish Stimulating Shampoo, 300ml",
+    "entities": [
+      [ 28, 35, "PRODUCT" ],
+      [ 37, 42, "SIZE/WEIGHT" ]
+    ]
+  },
+  {
+    "content": "Plisse Jersey Skirt Polvipituinen Hame Musta MOS MOSH",
+    "entities": [
+      [ 7, 13, "PRODUCT" ],
+      [ 14, 19, "PRODUCT" ],
+      [ 20, 38, "PRODUCT" ],
+      [ 39, 44, "COLOR" ],
+      [ 45, 53, "BRAND" ]
+    ]
+  }
+]
